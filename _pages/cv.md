@@ -13,15 +13,10 @@ Education
 ======
 * B.S. in Physics, The University of Tokyo, 2020
 
-
-Skills
+Work experiencs
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2020: Teaching Assistant
+  * fluid mechanics
 
 Publications
 ======
@@ -38,7 +33,7 @@ Contributed Talks
 Outreach
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    #{% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Experience
