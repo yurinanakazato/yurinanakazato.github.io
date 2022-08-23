@@ -32,9 +32,10 @@ Contributed Talks
 Outreach
 ======
 * Outreach programs for young women in high school 2022 ([東大理学部で考える女子中高生の未来 2022](https://www.s.u-tokyo.ac.jp/ja/event/7938/))
+  * 2022-07-30
   
 Academic horors
 ======
 * Fellowship, [The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)
   * 2021-10-01 - present
-  *an international combined Master's/Doctoral program
+  * an international combined Master's/Doctoral program
