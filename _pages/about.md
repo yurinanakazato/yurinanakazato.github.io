@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year master student in [the University of Tokyo Theoretical Astrophysics (UTAP)](http://www-utap.phys.s.u-tokyo.ac.jp/index.html) at [Department of Physics, Graduate School of Science](https://www.phys.s.u-tokyo.ac.jp/en/),[the Universiy of Tokyo](https://www.u-tokyo.ac.jp/en/). 
+Hi I am Yurina Nakazato (仲里佑利奈). I am a second-year master student in [the University of Tokyo Theoretical Astrophysics (UTAP)](http://www-utap.phys.s.u-tokyo.ac.jp/index.html) at [Department of Physics, Graduate School of Science](https://www.phys.s.u-tokyo.ac.jp/en/),[the Universiy of Tokyo](https://www.u-tokyo.ac.jp/en/). 
 
 
 Research intrest
