@@ -5,30 +5,13 @@ author_profile: true
 ---
 
 ## Awards
-- 2022.4: __[2022 IBM PhD Fellowship ](https://research.ibm.com/university/awards/fellowships.html)__     
-Awarded the worldwide IBM PhD Fellowship.
+- 2021.10: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
+Research Assistant at the University of Toyko.
 
-- 2019.3: __[The Young Researcher Award of the 25th Annual Meeting of the Association for Natural Language Processing](http://www.anlp.jp/nlp2019/)__     
-Awarded The Young Researcher Award by The Association for Natural Language Processing (Japanese representative scientific and professional society for researchers working on problems involving natural language and computation).    
-Paper title: **実行時機械翻訳による多言語機械読解 (English Title: Multilingual Extractive Reading Comprehension by Runtime Machine Translation)**    
-[\[Paper\]](https://akariasai.github.io/files/nlp2019_multilingual_rc.pdf) / [\[Slide\]](https://akariasai.github.io/files/nlp2019_asai_r2.pdf)
-
-- 2019.2: __[The Dean's Award, The Best Bachelor Thesis Award](https://www.t.u-tokyo.ac.jp/foee/index.html)__  
-Awarded The Dean's Award and The Best Bachelor Thesis Award due to excellent academic performance and bachelor thesis (**Rank: 1/139 at The Department of Electrical and Electronic Engineering and Information and Communication Engineering**).   
-Thesis title: **Multi-task Learning based on Separable Formulation of Depth Estimation and its Uncertainty**
+- 2021.8: __[Best Oral Presentation Award at 51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/oralawards/)__     
+Awarded The Best Oral Presentation by star and planet formation subcommittee. 
 
 
-- 2017.7: __[Women Techmaker Scholarship (Google Anita Borg Scholarship)](http://www.nakajimafound.or.jp/koubo.htm)__  
-0.2% acceptance rate. Selected out of 25,000 applicants to receive academic scholarship from Google’s
-Women Techmakers Program due to outstanding academic performance and community involvement.
-
-## Leadership
-- 2017.10: __[Todai Girls Hackathon 2017 (東大ガールズハッカソン)](http://www.todaishimbun.org/utokyo-girls-hackathon20171103/)__    
-Organized a hackathon for female students to foster interest and improve inclusivity and diversity in
-CS and related majors at the University of Tokyo.  
-Gave series of lectures on Java Programming and Android App Development, while mentoring a couple of teams.
-
-
-- 2016.8, 2017.9: __[Mind The Gap](https://japan.googleblog.com/2016/05/mindthegap.html)__, by Google Tokyo
-Invited as panelist and presenter to Mind The Gap, a project that teaches female high school students
-programming and empowers them to major in Computer Science and pursue careers in tech. 
+## Leadership & Outreach
+- 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__ 
+Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
