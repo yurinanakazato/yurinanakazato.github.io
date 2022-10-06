@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ## Awards
-- 2021.10: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
-Research Assistant at the University of Toyko.
+- 2023.4- : __[Japan Society for Promotion of Science (JSPS) Research Fellow, DC1]
+- 2021.10-present: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
+Research Assistant at the University of Toyko. 
 
 - 2021.8: __[Best Oral Presentation Award at 51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/oralawards/)__     
 Awarded The Best Oral Presentation by star and planet formation subcommittee. 
@@ -17,14 +18,19 @@ Awarded The Best Oral Presentation by star and planet formation subcommittee.
 Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
 
 ## Research and International experience
+* 2020.6-2021.3:__[Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__
+    * Funded by the faculty of science, the University of Tokyo
+    * Online reserach internship at Naoz lab, UCLA(https://www.astro.ucla.edu/~snaoz/).
+* 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__
+    * Funded by Johnson & Johnson.
+    * Workshop for improving presentaion skills and global female leadership.
 * 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
     * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
     * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
 
 * 2019.8: __[Summer School of Particle Physics and Nuclear Physics](https://www2.kek.jp/ksc/13th_2019/index.html)__
     * Funded by the High Energy Accelerator Research Organization.
-    * Nine-day seminar of particle physics, nuclear physics, quantum many body-system, the principle of accelerator, and astrophysics.
-    * Measured muon decay time and observed Lamor Precession and Single-Spin Asymmetries and made the final presentation and poster session.
+    * Experiment of measuring muon decay time and observing Lamor Precession and Single-Spin Asymmetries. Made the final presentation and poster session.
 
 * 2019.8: __[Nanotechnology Platform Student Training Program](https://www.nanonet.go.jp/pages/gakusei/2019/)__
     * Funded by National Institute for Materials Science.
