@@ -13,7 +13,7 @@ Awarded The Best Oral Presentation by star and planet formation subcommittee.
 
 
 ## Leadership & Outreach
-- 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__ 
+- 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__
 Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
 
 ## Research and International experience
