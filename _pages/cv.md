@@ -9,28 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in Physics, The University of Tokyo, 2021
 
-Work experiencs
-======
+## Work experiencs
 * 2021 4-8: Teaching Assistant
   * fluid mechanics class for undergrad students mojoring physics and astronomy.
  
 * 2019 4-present: Language Assistant
   * supporting international students at the Universeity of Tokyo and providing international exchange programs every week.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Contributed Talks
-======
-  <ul>{% for post in site.talks reversed %}
-  {% endfor %}</ul>
+## Publications
+
+
   
 
   
