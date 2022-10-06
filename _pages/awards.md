@@ -18,8 +18,8 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
 
 ## Research and International experience
 * 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
- * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
- * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
+    * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
+    * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
 
 - 2019.8: __[Summer School of Particle Physics and Nuclear Physics](https://www2.kek.jp/ksc/13th_2019/index.html)__
  - Funded by the High Energy Accelerator Research Organization.
