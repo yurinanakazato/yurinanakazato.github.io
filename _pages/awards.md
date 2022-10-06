@@ -18,8 +18,8 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
 
 ## Research and International experience
 - 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
- - Funded by DAIKIN, a company leading air conditioning and refrigeration. 
- - Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
+ * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
+ * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
 
 - 2019.8: __[Summer School of Particle Physics and Nuclear Physics](https://www2.kek.jp/ksc/13th_2019/index.html)__
  - Funded by the High Energy Accelerator Research Organization.
@@ -35,6 +35,6 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
  - Five-week science & engineering research internship program at Rice University, Houston. Researched and analyzed the heavy iron collision data of STAR experiment conducted at BNL. Joined Seminars on graduate education, communication & presentation skills, leadership and careers in STEM.
  - Final week study tour to Washington, DC including site visits to the Society for the Promotion of Science, JAXA, U.S.-Japan Council, and Women in STEM Workshop at Leihigh University.
  
- - 2014.7-8:__[Okinawa Global Leaders Program](http://eil.sakura.ne.jp/opsac/short.html)
+ - 2014.7-8:__[Okinawa Global Leaders Program](http://eil.sakura.ne.jp/opsac/short.html)__
   - Funded by Okinawa Prefectural Board of Education
   - Three-week program to introduce students to key concepts in intercultural communication and global leadership
