@@ -17,7 +17,7 @@ Awarded The Best Oral Presentation by star and planet formation subcommittee.
 Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
 
 ## Research and International experience
-- 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
+* 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
  * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
  * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
 
