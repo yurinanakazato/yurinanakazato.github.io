@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Awards
-- 2023.4- : __[Japan Society for Promotion of Science (JSPS) Research Fellow, DC1](https://www.jsps.go.jp/english/e-pd/index.html)
+- 2023.4- : __[Japan Society for Promotion of Science (JSPS) Research Fellow, DC1](https://www.jsps.go.jp/english/e-pd/index.html)__
 - 2021.10-present: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
 Research Assistant at the University of Toyko. 
 
@@ -22,7 +22,7 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
     * Funded by the faculty of science, the University of Tokyo
     * Online reserach internship at [Naoz lab](https://www.astro.ucla.edu/~snaoz/), UCLA.
 
-* 2019.12-2020.1: Online Language Excange Program - Utokyo & TUM-
+* 2019.12-2020.1: __Online Language Excange Program - Utokyo & TUM-__
     * Participated in an online international exchange program with students from Technical University of Munich
 * 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__
     * Funded by Johnson & Johnson.
