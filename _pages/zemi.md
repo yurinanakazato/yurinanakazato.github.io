@@ -25,10 +25,10 @@ author_profile: true
 - 2020.9-2021-3:__ラジプロゼミ__
     - "Radiative Processes in Astrophysics", George B. Rybicki, Alan P. Lightman
     
- -__論文ゼミ__
-     - 2021.10-present: 初代星関連の論文紹介ゼミ
-     - 2021.9 -present: [裏夜ゼミ](https://sites.google.com/view/urayoru-seminar/) 
-     - 2021.9-2022.5: 論文紹介ゼミその1
-     - 2021.9-2021.12: 論文紹介ゼミその2
+-__論文ゼミ__
+    - 2021.10-present: 初代星関連の論文紹介ゼミ
+    - 2021.9 -present: [裏夜ゼミ](https://sites.google.com/view/urayoru-seminar/) 
+    - 2021.9-2022.5: 論文紹介ゼミその1
+    - 2021.9-2021.12: 論文紹介ゼミその2
    
      
