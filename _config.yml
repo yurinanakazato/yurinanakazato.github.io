@@ -321,3 +321,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+   
+sitemap:
+    path: sitemap.xml
+    template: ./sitemap_template.xml
+    rel: false
