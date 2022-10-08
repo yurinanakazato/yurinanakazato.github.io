@@ -18,8 +18,27 @@ author_profile: true
 [IAU Symposium 362 The predictive power of computational astrophysics as a discovery tool](http://iaus362.astro.unistra.fr/IAUS362.html), online 
 
 ## domestic conferences 
-Under construction
+2022.8: "[OII] emission line ratio in high-z galaxies",  
+[IGM galaxy work shop 2022, Kushiro](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/en/2022/08/08/galaxy-igm/), Hokkaido 
+
+2022.3: "Statistical features of gas dominant objects(SIGOs) in the early universe",  
+ASJ Spring Annual Meeting 2022, online
+
+2022.2: "The formation of Supersonically Induced Gas Objects by Stream Velocity",  
+[First Stars and First Galaxies Symposium 2021](https://sites.google.com/view/fsfg2021/), Tokyo
+
+2021.9: "DM deficient cluster formation by stream gas motion relative to dark matter",  
+ASJ Autumn Annual Meeting 2021, online
+
+2021.9: "The formation of Supersonically Induced Gas Objects (SIGOs) with H2 chemistry",  
+[Symposium for Metal Poor Universe 2021](https://sites.google.com/view/metal-poor-universe-2021/ホーム-home), online
+
+2021.8: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
+[51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar
 2022.8: “[OIII] emission lines from high-z galaxies in the Epoch of Reionization”,  
 Resceu Summer School 2022, online, August, 2022
+
+2021.8: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
+Resceu Summer School 2021, online, August, 2021
