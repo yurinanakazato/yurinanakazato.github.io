@@ -11,7 +11,7 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
 - 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__  
 Funded by Johnson & Johnson. Joined a workshop for improving presentaion skills and global female leadership.
 
-- 2022.10:__[Research Presentation at Dow Chemical Company]__  
+- 2022.10:__Research Presentation at Dow Chemical Company__  
 Joined as a panelist to present a research project at [Dow Chemial Japan](https://jp.dow.com/ja-jp), who sponsor [TOMODACHI STEM program](https://tomodachistem.rice.edu).
 
 
@@ -25,7 +25,7 @@ Joined as a panelist to present a research project at [Dow Chemial Japan](https:
 
 * 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
     * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
-    * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
+    * Two-month workplace training at [DAIKIN Japan](https://www.daikin.com/corporate/why_daikin/japanbrand) and two-week research internship at [DAIKIN Europe](https://www.daikin.eu/en_us/customers.html). Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
 
 * 2019.8: __[Summer School of Particle Physics and Nuclear Physics](https://www2.kek.jp/ksc/13th_2019/index.html)__
     * Funded by the High Energy Accelerator Research Organization.
@@ -37,7 +37,7 @@ Joined as a panelist to present a research project at [Dow Chemial Japan](https:
 
 * 2019.2-3: __[Undergraduate Research Assistant, TOMODACHI STEM Program](https://tomodachistem.rice.edu)__
     * Funded by U.S.-Japan Council.
-    * Five-week science & engineering research internship program at Rice University, Houston. Researched and analyzed the heavy iron collision data of STAR experiment conducted at BNL. Joined Seminars on graduate education, communication & presentation skills, leadership and careers in STEM.
+    * Five-week science & engineering research internship at [Gerts lab](http://fis-archive.rice.edu/facultyaaab.html), Rice University, Houston. Researched and analyzed the heavy iron collision data of STAR experiment conducted at BNL. 
     * Final week study tour to Washington, DC including site visits to the Society for the Promotion of Science, JAXA, U.S.-Japan Council, and Women in STEM Workshop at Leihigh University.
  
 * 2014.7-8:__[Okinawa Global Leaders Program](http://eil.sakura.ne.jp/opsac/short.html)__
