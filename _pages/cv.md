@@ -30,8 +30,8 @@ redirect_from:
  Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
  2022, The Astrophysical Journal Letters, 927, 1, L12 (6pp)
  
- ### Co-Author
- *__["The Supersonic Project: The Early Evolutionary Path of SIGOs"]__(https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract),  
+### Co-Author
+* __["The Supersonic Project: The Early Evolutionary Path of SIGOs"]__(https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract),  
  Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
 2022, in ArXiv
 
