@@ -12,7 +12,7 @@ author_profile: true
 [Star Formation in Different Environments (SFDE) 2022](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html), Quy Nhon, Vietnam
 
 2022.8: “[OIII] emission lines from high-z galaxies in the Epoch of Reionization”,  
-Resceu Summer School 2022, online, August, 2022
+Resceu Summer School 2022, online
 
 2022.7: “The formation of gas-rich structure through baryon-dark matter streaming motion”,  
 [National Astronomy Meeting (NAM) 2022](https://nam2022.org), online
@@ -21,10 +21,10 @@ Resceu Summer School 2022, online, August, 2022
 [IAU Symposium 362 The predictive power of computational astrophysics as a discovery tool](http://iaus362.astro.unistra.fr/IAUS362.html), online 
 
 2021.8: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
-Resceu Summer School 2021, online, August, 2021
+Resceu Summer School 2021, online
 
 ## domestic conferences 
-2022.8: "[OII] emission line ratio in high-z galaxies",  
+2022.8: "[OIII] emission line ratio in high-z galaxies",  
 [IGM galaxy work shop 2022, Kushiro](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/en/2022/08/08/galaxy-igm/), Hokkaido 
 
 2022.3: "Statistical features of gas dominant objects(SIGOs) in the early universe",  
