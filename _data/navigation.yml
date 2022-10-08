@@ -3,17 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conference Talks"
+  - title: "Talks"
     url: /talks/    
     
   - title: "CV"
     url: /cv/
   
-  - title: "Awards and Leadership"
+  - title: "Leadership and others"
     url: /awards/
     
   - title: "zemi"
     url: /zemi/    
-   
-  - title: "Guide"
-    url: /markdown/
+ 
