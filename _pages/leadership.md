@@ -8,6 +8,13 @@ author_profile: true
 - 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
 Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
 
+- 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__
+Funded by Johnson & Johnson. Joined a workshop for improving presentaion skills and global female leadership.
+
+- 2022.10:__[Research Presentation at Dow Chemical Company]__  
+Joined as a panelist to present a research project at [Dow Chemial Japan](https://jp.dow.com/ja-jp), who sponsor [TOMODACHI STEM program](https://tomodachistem.rice.edu).
+
+
 ## Research and International experience
 * 2020.6-2021.3:__[Study and Visit Abroad Program](https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html)__
     * Funded by the faculty of science, the University of Tokyo
@@ -15,9 +22,7 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
 
 * 2019.12-2020.1: __Online Language Excange Program - Utokyo & TUM-__
     * Participated in an online international exchange program with students from Technical University of Munich
-* 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__
-    * Funded by Johnson & Johnson.
-    * Workshop for improving presentaion skills and global female leadership.
+
 * 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
     * Funded by DAIKIN, a company leading air conditioning and refrigeration. 
     * Two-month workplace training DAIKIN Japan and two-week research internship at DAIKIN Europe. Business proposal for food loss and integrated solution of air conditioning and refrigeration. 
