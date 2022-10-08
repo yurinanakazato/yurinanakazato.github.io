@@ -20,19 +20,10 @@ redirect_from:
 * 2019.4-present: Language Assistant
   * supporting international students at the Universeity of Tokyo and providing international exchange programs every week.
 
-## Publications
-### First Author
-* __"The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling"__  
-  Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
- 2022, The proceedings of IAU 362
- 
-* __["H2 cooling and gravitational collapse of supersonically induced gas objects"](https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..12N/abstract)__,  
- Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
- 2022, The Astrophysical Journal Letters, 927, 1, L12 (6pp)
- 
-### Co-Author
-* __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
- Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
-2022, in ArXiv
+## Awards
+- 2023.4- : __[Japan Society for Promotion of Science (JSPS) Research Fellow, DC1](https://www.jsps.go.jp/english/e-pd/index.html)__
+- 2021.10-present: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
+Research Assistant at the University of Toyko. 
 
-  
+- 2021.8: __[Best Oral Presentation Award at 51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/oralawards/)__     
+Awarded The Best Oral Presentation by star and planet formation subcommittee. 
