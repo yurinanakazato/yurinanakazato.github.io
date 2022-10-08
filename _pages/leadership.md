@@ -8,7 +8,7 @@ author_profile: true
 - 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
 Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
 
-- 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__
+- 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__  
 Funded by Johnson & Johnson. Joined a workshop for improving presentaion skills and global female leadership.
 
 - 2022.10:__[Research Presentation at Dow Chemical Company]__  
