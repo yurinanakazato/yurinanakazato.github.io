@@ -21,6 +21,18 @@ redirect_from:
   * supporting international students at the Universeity of Tokyo and providing international exchange programs every week.
 
 ## Publications
-* "H2 cooling and gravitational collapse of supersonically induced gas objects", 
+### First Author
+* __"The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling"__  
+  Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
+ 2022, The proceedings of IAU 362
+ 
+* __["H2 cooling and gravitational collapse of supersonically induced gas objects"]__(https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..12N/abstract),  
+ Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
+ 2022, The Astrophysical Journal Letters, 927, 1, L12 (6pp)
+ 
+ ### Co-Author
+ *__["The Supersonic Project: The Early Evolutionary Path of SIGOs"]__(https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract),  
+ Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
+2022, in ArXiv
 
   
