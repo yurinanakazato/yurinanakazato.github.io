@@ -11,11 +11,17 @@ author_profile: true
 2022.8: “Effect of streaming motion of baryons relative to dark matter and the formation of star clusters”,   
 [Star Formation in Different Environments (SFDE) 2022](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html), Quy Nhon, Vietnam
 
+2022.8: “[OIII] emission lines from high-z galaxies in the Epoch of Reionization”,  
+Resceu Summer School 2022, online, August, 2022
+
 2022.7: “The formation of gas-rich structure through baryon-dark matter streaming motion”,  
 [National Astronomy Meeting (NAM) 2022](https://nam2022.org), online
 
 2021.11: “The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling”,  
 [IAU Symposium 362 The predictive power of computational astrophysics as a discovery tool](http://iaus362.astro.unistra.fr/IAUS362.html), online 
+
+2021.8: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
+Resceu Summer School 2021, online, August, 2021
 
 ## domestic conferences 
 2022.8: "[OII] emission line ratio in high-z galaxies",  
@@ -37,8 +43,4 @@ ASJ Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar
-2022.8: “[OIII] emission lines from high-z galaxies in the Epoch of Reionization”,  
-Resceu Summer School 2022, online, August, 2022
 
-2021.8: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
-Resceu Summer School 2021, online, August, 2021
