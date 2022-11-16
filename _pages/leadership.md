@@ -11,7 +11,7 @@ Joined as a presenter to introduce reserach topic and daily research life. Empow
 - 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__  
 Funded by Johnson & Johnson. Joined a workshop for improving presentaion skills and global female leadership.
 
-- 2022.10:__Research Presentation at Dow Chemical Company__  
+- 2019.10:__Research Presentation at Dow Chemical Company__  
 Joined as a panelist to present a research project at [Dow Chemial Japan](https://jp.dow.com/ja-jp), who sponsor [TOMODACHI STEM program](https://tomodachistem.rice.edu).
 
 
