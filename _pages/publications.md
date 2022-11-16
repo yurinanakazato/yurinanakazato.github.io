@@ -18,6 +18,10 @@ redirect_from:
  2022, The Astrophysical Journal Letters, 927, 1, L12 (6pp)
  
 ### Co-Author
+* __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
+  Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Nakazato, Y., Yoshida, N.  
+2022, in ArXiv
+
 * __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
  Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
 2022, in ArXiv
