@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications
 ### First Author  
-* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://arxiv.org/abs/2301.02416)__,
+* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://arxiv.org/abs/2301.02416)__,  
   Nakazato, Y., Yoshida, N., Ceverino, D.  
   2023, in Arxiv
 
