@@ -13,4 +13,5 @@ Hi I am Yurina Nakazato (仲里佑利奈). I am a second-year master student at 
 ## Research intrest
 * the first star formation
 
-* high-z galaxies (modeling of emission lines from high-z galaxies by galaxy formation simulations)
+* high-redshift galaxies    
+ (modeling of emission lines from high-redshift galaxies by galaxy formation simulations)
