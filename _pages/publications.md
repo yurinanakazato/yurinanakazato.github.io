@@ -21,14 +21,24 @@ redirect_from:
  Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
  2022, The Astrophysical Journal Letters, 927, 1, L12
  
-### Co-Author
+### Co-Author 
+* __[RIOJA I. The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
+ Hashimoto, T. et al. (incl. Y.Nakazato)  
+ 2023, in ArXiv
+ 
+ 
+* __["Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies"](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__  
+ Ura, R. et al. (incl. Y.Nakazato)  
+ 2023, The Astrophysical Journal, 948, 1
+ 
+ 
 * __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
 <span style="font-size: 65%; color: black;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
 <span style="font-weight:bold;font-size: 65%; color: blue;"> Nakazato, Y. </span>
 <span style="font-size: 65%; color: black;">, Yoshida, N.
-2022, in ArXiv</span>
+2023, The Astrophysical Journal, 945, 1 </span>
 
 
 * __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
  Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
-2022, in ArXiv
+2023, The Astrophysical Journal, 943, 2
