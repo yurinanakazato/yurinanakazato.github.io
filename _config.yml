@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yurina Nakazato"
   avatar           : "image.jpeg"
-  bio              : "2nd year Master student"
+  bio              : "1st year Ph.D student"
   location         : "Tokyo, Japan"
   employer         : 
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
