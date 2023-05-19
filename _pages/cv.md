@@ -13,7 +13,7 @@ redirect_from:
 * 2023.4- present: Ph.D course, The Universeity of Tokyo  
 * 2021.4- 2023.3&thinsp; :  M.S. in Physics, The University of Tokyo (Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)) 
 &emsp;&emsp;&emsp;&emsp; 
-Thesis&thinsp;: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/theses.html)
+Thesis&thinsp;: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
 * 2017.4- 2021.3&thinsp; :  B.S. in Physics, The University of Tokyo
 
 
