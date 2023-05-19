@@ -23,10 +23,11 @@ redirect_from:
  
 ### Co-Author
 * __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
-<span style="font-size: 70%; color: black;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Nakazato, Y., Yoshida, N.  
+<span style="font-size: 65%; color: black;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
+<span style="font-weight:bold;font-size: 65%; color: blue;"> Nakazato, Y. </span>
+<span style="font-size: 65%; color: black;">, Yoshida, N.
 2022, in ArXiv</span>
-  Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Nakazato, Y., Yoshida, N.  
-2022, in ArXiv
+
 
 * __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
  Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
