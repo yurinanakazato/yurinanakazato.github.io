@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-* 2021.4- present: M.S. in Physics, The University of Tokyo (Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/))
-* 2017.4- 2021.3:  B.S. in Physics, The University of Tokyo
+## Education  
+* 2023.4- present: Ph.D course, The Universeity of Tokyo  
+* 2021.4- 2023.3&thinsp; :  M.S. in Physics, The University of Tokyo (Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Thesis: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/theses.html)
+* 2017.4- 2021.3&thinsp; :  B.S. in Physics, The University of Tokyo
+
+
 
 ## Work experiencs
 * 2021.4-8: Teaching Assistant
