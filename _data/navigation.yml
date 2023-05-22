@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "日本語"
+    url: http://yurinanakazato-ja.github.io/
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/  
-  
-  - title: "日本語"
-    url: http://yurinanakazato.github.io/yurinanakazato_ja/
     
   - title: "CV"
     url: /cv/
