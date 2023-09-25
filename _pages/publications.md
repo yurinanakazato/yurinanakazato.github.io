@@ -26,7 +26,7 @@ redirect_from:
   Tsuna, D., Nakazato, Y., Hartwig, T.
   2023, in ArXiv
 
-*__[The Supersonic Project: Star Formatioin in Early Star Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023arXiv230601047L/abstract)__  
+* __[The Supersonic Project: Star Formatioin in Early Star Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023arXiv230601047L/abstract)__  
   <span style="font-size: 65%; color: black;">Lake, W., Naoz, S., Marinacci, F., Burkhart, B., Vogelsberger, M., Williams, C., E.,  Chiou, Y., S., Chiaki, G., </span>
 <span style="font-weight:bold;font-size: 65%; color: blue;"> Nakazato, Y. </span>
 <span style="font-size: 65%; color: black;">, Yoshida, N.
