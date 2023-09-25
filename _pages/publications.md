@@ -22,7 +22,7 @@ redirect_from:
  2022, The Astrophysical Journal Letters, 927, 1, L12
  
 ### Co-Author  
-* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230902415T/abstract)__
+* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230902415T/abstract)__  
   Tsuna, D., Nakazato, Y., Hartwig, T.
   2023, in ArXiv
 
