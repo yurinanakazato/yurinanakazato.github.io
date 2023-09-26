@@ -27,9 +27,9 @@ redirect_from:
   2023, in ArXiv
 
 * __[The Supersonic Project: Star Formation in Early Star Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023arXiv230601047L/abstract)__  
-  <span style="font-size: 100%; color: gray;">Lake, W., Naoz, S., Marinacci, F., Burkhart, B., Vogelsberger, M., Williams, C., E.,  Chiou, Y., S., Chiaki, G., </span>
+  <span style="font-size: 100%; color: #444444;">Lake, W., Naoz, S., Marinacci, F., Burkhart, B., Vogelsberger, M., Williams, C., E.,  Chiou, Y., S., Chiaki, G., </span>
 <span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 100%; color: gray;">, Yoshida, N.
+<span style="font-size: 100%; color: #444444;">, Yoshida, N.
 2023, The Astrophysical Journal, 945, 1 </span>  
 
 * __[Reionization and the ISM/Stellar Origins with JWST and ALMA (RIOJA): The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
