@@ -50,5 +50,7 @@ redirect_from:
 
 
 * __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
- Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., Nakazato.,Y., Williams, C.  
-2023, The Astrophysical Journal, 943, 2
+<span style="font-size: 100%; color: black;"> Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., </span>
+<span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
+<span style="font-size: 100%; color: black;">, Williams, C.  
+2023, The Astrophysical Journal, 943, 2 </span>
