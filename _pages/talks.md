@@ -8,7 +8,7 @@ author_profile: true
 2023.8: "Simulations of high-redshift [OIII] emitters: Chemical evolution and bursty star formation history",  
 [RESCEU summer school](https://sites.google.com/view/resceu-ss2023/top?authuser=0), Nagano Univ.  
 
-2023.7: "Simulations og high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics",  
+2023.7: "Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics",  
 [Shedding new light on the first billion years of the Universe](https://geco2023-1gyr.sciencesconf.org), Marseille, France  
 
 2023.3: "H2 cooling of gravitational collapse of SIGOs with high-resolution simulations",   
