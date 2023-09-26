@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-pdf version is [here](https://yurinanakazato.github.io/files/CV_English.pdf) .
+pdf version is [here](https://yurinanakazato.github.io/files/CV_English.pdf).
 
 ## Education  
-* 2023.4- present: Ph.D course, The Universeity of Tokyo  
+* 2023.4- present: Ph.D course, The University of Tokyo  
 * 2021.4- 2023.3&thinsp; :  M.S. in Physics, The University of Tokyo (Supervisor: [Naoki Yoshida](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/))   
 &emsp;&emsp;&emsp;&emsp; 
 Thesis&thinsp;: [Formation and evolution of star clusters and galaxies in the early Universe](http://www-utap.phys.s.u-tokyo.ac.jp/Theses/M_Nakazato.pdf)
@@ -19,12 +19,12 @@ Thesis&thinsp;: [Formation and evolution of star clusters and galaxies in the ea
 
 
 
-## Work experiencs
+## Work experiences
 * 2021.4-8: Teaching Assistant
-  * fluid mechanics class for undergrad students mojoring physics and astronomy.
+  * fluid mechanics class for undergrad students majoring physics and astronomy.
  
 * 2019.4-present: Language Assistant
-  * supporting international students at the Universeity of Tokyo and providing international exchange programs every week.
+  * supporting international students at the University of Tokyo and providing international exchange programs every week.
 
 ## Awards  
 - 2023.4- : __[JSR fellowship](https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/)__  
@@ -35,7 +35,7 @@ Awarded due to excellent academic performance and master thesis (_Rank:1/128_)
 - 2023.3- : __[The University of Tokyo President's Award](https://www.phys.s.u-tokyo.ac.jp/award/37776/)__  
 Selected as one of two out of 3,000 master students at the University of Tokyo.
 - 2023.3- : __[The Excellence Award for Qualifying Exam](https://www.s.u-tokyo.ac.jp/en/IGPEES/news/2023-01.html)__  
-Awarded due to excellent research proporsals and oral defense.
+Awarded due to excellent research proposals and oral defense.
 - 2021.10-present: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
 Research Assistant at the University of Toyko. 
 
