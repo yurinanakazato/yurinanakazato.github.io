@@ -16,3 +16,7 @@ Hi I am Yurina Nakazato (仲里佑利奈). I am a first-year master student at [
 
 * high-redshift galaxies    
  (modeling of emission lines from high-redshift galaxies by galaxy formation simulations)
+ Our results of RIOJA project using JWST have been published as a press release. [link](https://www.ipmu.jp/en/20230920-Protocluster)
+ 
+
+
