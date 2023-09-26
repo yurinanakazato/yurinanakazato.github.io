@@ -33,8 +33,8 @@ Resceu Summer School 2022, online
 Resceu Summer School 2021, online
 
 ## domestic conferences  
-2023.9: "Formation of clumpy galaxies during the Epoch of Reionization in a zoom-in simulation",  
-ASJ (The Astronomical Society of Japan) Autumn Meeting 2023, Nagoya University, Aichi  
+2023.9: "Formation of clumpy galaxies during the Epoch of Reionization in zoom-in simulations",  
+ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2023, Nagoya University, Aichi  
 
 2023.9: "Zoom-in simulations of high-redshift galaxies & emission line modeling for JWST and ALMA", Fine-structure lines workshop 2023, Ehime Univesity, Ehime  
 
