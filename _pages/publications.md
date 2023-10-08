@@ -43,14 +43,14 @@ redirect_from:
  
  
 * __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
-<span style="font-size: 100%; color: black;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
+<span style="font-size: 100%; color:#444444;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
 <span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 100%; color: black;">, Yoshida, N.
+<span style="font-size: 100%; color:#444444;">, Yoshida, N.
 2023, The Astrophysical Journal, 945, 1 </span>
 
 
 * __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
-<span style="font-size: 100%; color: black;"> Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., </span>
+<span style="font-size: 100%; color:#444444;"> Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., </span>
 <span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 100%; color: black;">, Williams, C.  
+<span style="font-size: 100%; color:#444444;">, Williams, C.  
 2023, The Astrophysical Journal, 943, 2 </span>
