@@ -13,6 +13,7 @@ Hi I am Yurina Nakazato (仲里佑利奈). I am a first-year master student at [
 ## Research interest
 * First star formation  
   (considering the effect of Stream Velocity)
+  See the Supersonic Project website! [link](https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/People.html)
 
 * High-redshift galaxies    
  (modeling of emission lines from high-redshift galaxies by galaxy formation simulations)
