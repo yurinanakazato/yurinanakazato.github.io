@@ -4,15 +4,17 @@ permalink: /leadership/
 author_profile: true
 ---
 
-## Leadership & Outreach
+## Leadership & Outreach  
+- 2023.6: __Get-Together Event for Women in STEM__
+Organized a 'get together' event to promoted the interaction between female STEM researchers at U-Tokyo.  
 - 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
-Joined as a presenter to introduce reserach topic and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
+Joined as a presenter to introduce research topics and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
 
 - 2019.12 : __[Rikejo Initiative](https://www.u-tokyo.ac.jp/kyodo-sankaku/ja/news/news2019_00019.html)__  
-Funded by Johnson & Johnson. Joined a workshop for improving presentaion skills and global female leadership.
+Funded by Johnson & Johnson. Joined a workshop for improving presentation skills and global female leadership.
 
 - 2019.10: __Research Presentation at Dow Chemical Company__  
-Joined as a panelist to present a research project at [Dow Chemial Japan](https://jp.dow.com/ja-jp), who sponsor [TOMODACHI STEM program](https://tomodachistem.rice.edu).
+Joined as a panelist to present a research project at [Dow Chemical Japan](https://jp.dow.com/ja-jp), who sponsors [TOMODACHI STEM program](https://tomodachistem.rice.edu).
 
 
 ## Research and International experience
@@ -20,7 +22,7 @@ Joined as a panelist to present a research project at [Dow Chemial Japan](https:
     * Funded by the faculty of science, the University of Tokyo
     * Online reserach internship at [Naoz lab](https://www.astro.ucla.edu/~snaoz/), UCLA.
 
-* 2019.12-2020.1: __Online Language Excange Program - Utokyo & TUM-__
+* 2019.12-2020.1: __Online Language Exchange Program - Utokyo & TUM-__
     * Participated in an online international exchange program with students from Technical University of Munich
 
 * 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__
