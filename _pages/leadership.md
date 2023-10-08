@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Leadership & Outreach  
-- 2023.6: __Get-Together Event for Women in STEM__
+- 2023.6: __Get-Together Event for Women in STEM__  
 Organized a 'get together' event to promoted the interaction between female STEM researchers at U-Tokyo.  
 - 2022.7: __[Women in STEM (東大理学部で考える女子中高生の未来)](https://www.s.u-tokyo.ac.jp/ja/event/7938/)__  
 Joined as a presenter to introduce research topics and daily research life. Empowered female high school students to major in Astrophysics and pursue careers in STEM.
