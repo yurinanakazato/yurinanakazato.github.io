@@ -24,7 +24,7 @@ redirect_from:
 ### Co-Author  
 * __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230902415T/abstract)__  
   Tsuna, D., Nakazato, Y., Hartwig, T.
-  2023, in ArXiv
+  2023, Accepted to Monthly Notices of the Royal Astronomical Society  
 
 * __[The Supersonic Project: Star Formation in Early Star Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023arXiv230601047L/abstract)__  
   <span style="font-size: 100%; color: #444444;">Lake, W., Naoz, S., Marinacci, F., Burkhart, B., Vogelsberger, M., Williams, C., E.,  Chiou, Y., S., Chiaki, G., </span>
@@ -32,7 +32,7 @@ redirect_from:
 <span style="font-size: 100%; color: #444444;">, Yoshida, N.
 2023, Accepted to The Astrophysical Journal Letters </span>  
 
-* __[Reionization and the ISM/Stellar Origins with JWST and ALMA (RIOJA): The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
+* __[Reionization and the ISM/Stellar Origins with JWST and ALMA (RIOJA): The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__    
  Hashimoto, T. et al. (incl. Y.Nakazato)  
  2023, The Astrophysical Journal Letters, 955, L2, 8  
  
