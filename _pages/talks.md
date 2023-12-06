@@ -15,8 +15,6 @@ with ALMA & JWST](https://sites.google.com/view/resolvinguniverse2023/home), Was
 2023.7: "Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics",  
 [Shedding new light on the first billion years of the Universe](https://geco2023-1gyr.sciencesconf.org), Marseille, France  
 
-2023.3: "H2 cooling of gravitational collapse of SIGOs with high-resolution simulations",   
-Supersonic Project: Collaboration meeting, UCLA, US  
 
 2022.9: "The formation of star clusters in the early universe through supersonic gas streams”,  
 [The 9th East Asian Numerical Astrophysics Meeting (EANAM9)](https://hpc.imit.chiba-u.jp/eanam9/), Okinawa, Japan
@@ -74,5 +72,8 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 2023.12: "", seminar talk, Universidad Autónoma de Madrid  
 
 2023.8: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
+
+2023.3: "H2 cooling of gravitational collapse of SIGOs with high-resolution simulations",   
+Supersonic Project: Collaboration meeting, UCLA, US  
 
 2023.3: "Formation and evolution of star clusters and galaxies in the early Universe", UCLA
