@@ -28,12 +28,12 @@ C. E. Williams et al. (incl. Y.Nakazato)
 2023, submitted to ApJL, arxiv:2310.03799  
 
 * __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
-D. Tsuna et al. (incl.Y. Nakazato)  
+D. Tsuna, Y. Nakazato, T. Hartwig  
 2023, Monthly Notices of the Royal Astronomical Society, 526, 4, 2023  
 
 * __[The Supersonic Project: Star Formation in Early Star
 Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L...7L/abstract)__  
-W. Lake et al. (incl.Y. Nakazato)
+W. Lake et al. (incl.Y. Nakazato)  
 2023, The Astrophysical Journal Letters 956, 1, 2023
   
 * __[RIOJA I. The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
