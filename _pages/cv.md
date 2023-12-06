@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-pdf version is [here](https://yurinanakazato.github.io/files/CV_English.pdf).
+pdf version is [here](https://yurinanakazato.github.io/files/CV_English_20231206.pdf).
 
 ## Education  
 * 2023.4- present: Ph.D course, The University of Tokyo  
