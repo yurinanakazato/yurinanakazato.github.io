@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## international conferences  
+2023.11: "FirstLight simulations: Chemical evolution and bursty star formation history of high-redshift [OIII] emitters",  
+[Resolving the Extragalactic Universe
+with ALMA & JWST](https://sites.google.com/view/resolvinguniverse2023/home), Waseda Univ.  
+
 2023.8: "Simulations of high-redshift [OIII] emitters: Chemical evolution and bursty star formation history",  
 [RESCEU summer school](https://sites.google.com/view/resceu-ss2023/top?authuser=0), Nagano Univ.  
 
@@ -65,6 +69,10 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
+2023.12: "", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
+
+2023.12: "", seminar talk, Universidad Autónoma de Madrid  
+
 2023.8: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
 
 2023.3: "Formation and evolution of star clusters and galaxies in the early Universe", UCLA
