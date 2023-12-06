@@ -9,48 +9,43 @@ redirect_from:
 
 ## Publications
 ### First Author  
-* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..140N/abstract)__,  
-  Nakazato, Y., Yoshida, N., Ceverino, D.  
-  2023, The Astrophysical Journal, 953, 2, 140  
+* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://arxiv.org/abs/2301.02416)__,  
+  Y. Nakazato, N. Yoshida, D. Ceverino   
+  2023, in Arxiv
 
 * __["The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling"](https://ui.adsabs.harvard.edu/abs/2023IAUS..362...45N/abstract)__  
-  Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
+  Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou   
  2022, Proceedings of International Astronomical Union, Volume 362
  
 * __["H2 cooling and gravitational collapse of supersonically induced gas objects"](https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..12N/abstract)__,  
- Nakzato, Y., Chiaki, G., Yoshida, N., Naoz, S., Lake, W., Chiou, Y.    
+Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou     
  2022, The Astrophysical Journal Letters, 927, 1, L12
+
  
 ### Co-Author  
-* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230902415T/abstract)__  
-  Tsuna, D., Nakazato, Y., Hartwig, T.
-  2023, Accepted to Monthly Notices of the Royal Astronomical Society  
+* __[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
+C. E. Williams et al. (incl. Y.Nakazato)  
+2023, submitted to ApJL, arxiv:2310.03799  
 
-* __[The Supersonic Project: Star Formation in Early Star Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023arXiv230601047L/abstract)__  
-  <span style="font-size: 100%; color: #444444;">Lake, W., Naoz, S., Marinacci, F., Burkhart, B., Vogelsberger, M., Williams, C., E.,  Chiou, Y., S., Chiaki, G., </span>
-<span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 100%; color: #444444;">, Yoshida, N.
-2023, Accepted to The Astrophysical Journal Letters </span>  
+* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
+D. Tsuna et al. (incl.Y. Nakazato)  
+2023, Monthly Notices of the Royal Astronomical Society, 526, 4, 2023  
 
-* __[Reionization and the ISM/Stellar Origins with JWST and ALMA (RIOJA): The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__    
- Hashimoto, T. et al. (incl. Y.Nakazato)  
- 2023, The Astrophysical Journal Letters, 955, L2, 8  
+* __[The Supersonic Project: Star Formation in Early Star
+Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L...7L/abstract)__  
+W. Lake et al. (incl.Y. Nakazato)
+2023, The Astrophysical Journal Letters 956, 1, 2023
+  
+* __[RIOJA I. The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
+T. Hashimoto et al. (incl. Y.Nakazato)  
+ 2023, The Astrophysical Journal Letters, 955, 8
  
  
-* __["Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies"](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__  
- Ura, R. et al. (incl. Y.Nakazato)  
+* __["Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies"](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__   
+R. Ura et al. (incl. Y.Nakazato)  
  2023, The Astrophysical Journal, 948, 1
  
  
 * __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
-<span style="font-size: 100%; color:#444444;">Williams, C., E., Naoz, S., Lake, W., Chiou, Y., S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., </span>
-<span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 100%; color:#444444;">, Yoshida, N.
+C. E. Williams et al. (incl. Y.Nakazato)  
 2023, The Astrophysical Journal, 945, 1 </span>
-
-
-* __["The Supersonic Project: The Early Evolutionary Path of SIGOs"](https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract)__,  
-<span style="font-size: 100%; color:#444444;"> Lake, W., Naoz, S., Burkhart, B., Marinacci, F., Vogelsberger, M., Chiaki, G., Chiou, Y., Yoshida, N., </span>
-<span style="font-weight:bold;font-size: 100%; color: blue;"> Nakazato, Y. </span>
-<span style="font-size: 100%; color:#444444;">, Williams, C.  
-2023, The Astrophysical Journal, 943, 2 </span>
