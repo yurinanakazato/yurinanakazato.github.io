@@ -7,10 +7,10 @@ author_profile: true
 ## international conferences  
 2023.11: "FirstLight simulations: Chemical evolution and bursty star formation history of high-redshift [OIII] emitters",  
 [Resolving the Extragalactic Universe
-with ALMA & JWST](https://sites.google.com/view/resolvinguniverse2023/home), Waseda Univ.  
+with ALMA & JWST](https://sites.google.com/view/resolvinguniverse2023/home), Waseda Univ., Tokyo, Japan
 
 2023.8: "Simulations of high-redshift [OIII] emitters: Chemical evolution and bursty star formation history",  
-[RESCEU summer school](https://sites.google.com/view/resceu-ss2023/top?authuser=0), Nagano Univ.  
+[RESCEU summer school](https://sites.google.com/view/resceu-ss2023/top?authuser=0), Shinshu Univ., Nagano, Japan
 
 2023.7: "Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics",  
 [Shedding new light on the first billion years of the Universe](https://geco2023-1gyr.sciencesconf.org), Marseille, France  
@@ -67,9 +67,9 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
-2023.12: "", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
+2023.12: "Chemical evolution and bursty star formation history of high-redshift galaxies from ALMA to JWST", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
 
-2023.12: "", seminar talk, Universidad Autónoma de Madrid  
+2023.12: "Chemical and dynamical evolution of high-redshift [OIII] emitters in FirstLight simulation", seminar talk, Universidad Autónoma de Madrid  
 
 2023.8: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
 
