@@ -9,9 +9,9 @@ redirect_from:
 
 ## Publications
 ### First Author  
-* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://arxiv.org/abs/2301.02416)__,  
+* __["Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics"](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..140N/abstract)__,  
   Y. Nakazato, N. Yoshida, D. Ceverino   
-  2023, in Arxiv
+  2023, The Astrophysical Journal, 953, 2
 
 * __["The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling"](https://ui.adsabs.harvard.edu/abs/2023IAUS..362...45N/abstract)__  
   Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou   
