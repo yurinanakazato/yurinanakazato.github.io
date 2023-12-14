@@ -21,7 +21,7 @@ Thesis&thinsp;: [Formation and evolution of star clusters and galaxies in the ea
 
 ## Work experiences
 * 2021.4-8: Teaching Assistant
-  * fluid mechanics class for undergrad students majoring physics and astronomy.
+  * fluid mechanics class for undergrad students majoring in physics and astronomy.
  
 * 2019.4-present: Language Assistant
   * supporting international students at the University of Tokyo and providing international exchange programs every week.
@@ -39,5 +39,5 @@ Awarded due to excellent research proposals and oral defense.
 - 2021.10-present: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
 Research Assistant at the University of Toyko. 
 
-- 2021.8: __[Best Oral Presentation Award at 51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/oralawards/)__     
+- 2021.8: __[Best Oral Presentation Award at 51th astronomical meeting for junior researchers](https://astro-wakate.sakura.ne.jp/ss2021/oralawards/)__     
 Awarded The Best Oral Presentation by star and planet formation subcommittee. 
