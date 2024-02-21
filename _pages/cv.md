@@ -40,7 +40,7 @@ Selected as one of two out of 3,000 master students at the University of Tokyo.
 - 2023.3- : __[The Excellence Award for Qualifying Exam](https://www.s.u-tokyo.ac.jp/en/IGPEES/news/2023-01.html)__  
 Awarded due to excellent research proposals and oral defense.
 - 2021.10-present: __[The International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://www.s.u-tokyo.ac.jp/en/IGPEES/index.html)__     
-Research Assistant at the University of Toyko. 
+Research Assistant at the University of Tokyo. 
 
 - 2021.8: __[Best Oral Presentation Award at 51th astronomical meeting for junior researchers](https://astro-wakate.sakura.ne.jp/ss2021/oralawards/)__     
 Awarded The Best Oral Presentation by star and planet formation subcommittee. 
