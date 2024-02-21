@@ -19,14 +19,17 @@ Thesis&thinsp;: [Formation and evolution of star clusters and galaxies in the ea
 
 
 
-## Work experiences
-* 2021.4-8: Teaching Assistant
+## Work experiences  
+* 2024.2-present: Outsourcing for AI company [Polaris. AI](https://polarisai.co.jp)  
+* 2021.4-8  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Teaching Assistant
   * fluid mechanics class for undergrad students majoring in physics and astronomy.
  
 * 2019.4-present: Language Assistant
   * supporting international students at the University of Tokyo and providing international exchange programs every week.
 
 ## Awards  
+- 2024.2  : __[Poster Award at Internatioinal Symposium on Quantum Electronics](https://www.tsqs2024.org)__  
+  Awarded JSR poster award by JSR Corporation, who sponsors the symposium.  
 - 2023.4- : __[JSR fellowship](https://curie.phys.s.u-tokyo.ac.jp/en/fellowship/)__  
 Awarded JSR Corporation Fellowship  
 - 2023.4- : __[Japan Society for Promotion of Science (JSPS) Research Fellow, DC1](https://www.jsps.go.jp/english/e-pd/index.html)__ 
