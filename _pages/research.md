@@ -25,4 +25,3 @@ Recent JWST has high spatial resolution observations and reveals that high-redsh
 We show that early galaxies merge and surrounding gas is tidally compressed, forming clumpy structures. (see the attached movie)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhFat907Fh4?si=PlzUexRLIVv3SLnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="/images/research/output.mov" width="75%" style="display: block; margin: auto;" />
