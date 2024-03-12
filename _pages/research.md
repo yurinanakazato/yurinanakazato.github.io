@@ -31,10 +31,10 @@ Before the Recombination, gas and photon were coupled and their motion was diffe
 
 Stream Velocity was coherent on comoving scales of a few Mpc (Tseliakhovich & Hirata 2011) and caused significant effects on the formation in the early Universe (see the review by Anastasia Fialkov). Especially, stream velocity can form physical offsets between baryon components and dark matter halos, which could survive as long-lived dark matter-free objects and become globular clusters (Naoz & Narayan 2014). Such objects are named ‘Supersonically Induced Gas Objects (SIGOs)’ and their natures have been investigated as a supersonic project.  
 
-<img src="/images/research/baryonic_structures_z25.png" width="70%" height="auto">  
+<img src="/images/research/baryonic_structures_z25.png" width="60%" height="auto">  
 
 Nakazato et al. (2022) perform cosmological simulations including stream velocities show that SIGOs are formed at z = 25 and such dark-matter less objects can survive and reach high gas density to collapse.  
 
-<img src="/images/research/SIGO_formation.png" width="70%" height="auto">  
+<img src="/images/research/SIGO_formation.png" width="60%" height="auto">  
 
 
