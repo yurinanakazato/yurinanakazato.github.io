@@ -26,4 +26,4 @@ We show that early galaxies merge and surrounding gas is tidally compressed, for
 
 {% include youtube.html id="XDaD2y5J5b0&list=RDXDaD2y5J5b0&start_radio=1&ab_channel=StrayKids" %}
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/XDaD2y5J5b0?si=RUQGMCTj8dK3tRpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XDaD2y5J5b0?si=RUQGMCTj8dK3tRpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
