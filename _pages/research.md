@@ -14,8 +14,14 @@ high-redshift galaxies existing just 0.5 billion years after the BigBang, eviden
 Nakazato et al. (2023) use the outputs of zoom-in cosmological simulations FirstLight and model emission lines from HII regions 
 and investigate the ionizing states and chemical evolution  of high-redshift galaxies at z = 6-9. 
 Additionally, we propose line diagnostics by using [OIII] 88um, 52um, and 5007 Å for future synergy of JWST and ALMA.
-![](/images/research/.png)
+<!-- ![](/images/research/FL964_projection_ver0.png) -->
+<!-- <img src="/images/research/FL964_projection_ver0.png" width="50%" height="auto"> -->
 
-Recent JWST has high spatial resolution observations and reveals that high-redshift galaxies have clumpy structures of the early Universe.   
-Nakazato et al. (2023) develop an algorithm to identify giant young clumps detectable by JWST. 
-We show that early galaxies merge and surrounding gas is tidally compressed, forming clumpy structures. 
+
+<img src="/images/research/FL964_projection_ver0.png" width="48%" height="auto"> <img src="/images/research/MZR.png" alt="mass metallicity relations" width="48%"/>
+
+
+Recent JWST has high spatial resolution observations and reveals that high-redshift galaxies have clumpy structures of the early Universe. Nakazato et al. (2024) develop an algorithm to identify giant young clumps detectable by JWST. 
+We show that early galaxies merge and surrounding gas is tidally compressed, forming clumpy structures.   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XDaD2y5J5b0?si=RUQGMCTj8dK3tRpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
