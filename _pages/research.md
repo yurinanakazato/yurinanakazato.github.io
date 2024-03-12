@@ -23,5 +23,18 @@ Additionally, we propose line diagnostics by using [OIII] 88um, 52um, and 5007 �
 
 Recent JWST has high spatial resolution observations and reveals that high-redshift galaxies have clumpy structures of the early Universe. Nakazato et al. (2024) develop an algorithm to identify giant young clumps detectable by JWST. 
 We show that early galaxies merge and surrounding gas is tidally compressed, forming clumpy structures. (see the attached movie)  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MhFat907Fh4?si=PlzUexRLIVv3SLnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhFat907Fh4?si=PlzUexRLIVv3SLnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+
+
+## Early Cluster Formation through Stream Velocity  
+Before the Recombination, gas and photon were coupled and their motion was different from dark matter. There were relative velocities between baryon and dark matter and the typical speed was about 30 km/s at the Recombination, thus it is a supersonic gas flow so called “Stream Velocity”.
+
+Stream Velocity was coherent on comoving scales of a few Mpc (Tseliakhovich & Hirata 2011) and caused significant effects on the formation in the early Universe (see the review by Anastasia Fialkov). Especially, stream velocity can form physical offsets between baryon components and dark matter halos, which could survive as long-lived dark matter-free objects and become globular clusters (Naoz & Narayan 2014). Such objects are named ‘Supersonically Induced Gas Objects (SIGOs)’ and their natures have been investigated as a supersonic project.  
+
+<img src="/images/research/baryonic_structures_z25.png" width="70%" height="auto">  
+
+Nakazato et al. (2022) perform cosmological simulations including stream velocities show that SIGOs are formed at z = 25 and such dark-matter less objects can survive and reach high gas density to collapse.  
+
+<img src="/images/research/SIGO_formation.png" width="70%" height="auto">  
+
 
