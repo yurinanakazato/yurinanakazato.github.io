@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## Publications
+The publication list created in NASA/ADS is [here](https://ui.adsabs.harvard.edu/public-libraries/e1XvdN4yTZK3_QI5SHf3fA). 
+
 ### First Author  
 * __[A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation](https://ui.adsabs.harvard.edu/abs/2024arXiv240208911N/abstract)__,  
   Y. Nakazato, D. Ceverino, N. Yoshida  
@@ -45,11 +47,17 @@ T. Hashimoto et al. (incl. Y.Nakazato)
  2023, The Astrophysical Journal Letters, 955, 8
  
  
-* __["Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies"](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__   
+* __[Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__   
 R. Ura et al. (incl. Y.Nakazato)  
  2023, The Astrophysical Journal, 948, 1
  
  
-* __["The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts"](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
+* __[The Supersonic Project: The eccentricity and rotational support of SIGOs and DM GHOSts](https://ui.adsabs.harvard.edu/abs/2022arXiv221102066W/abstract)__,  
 C. E. Williams et al. (incl. Y.Nakazato)  
-2023, The Astrophysical Journal, 945, 1 </span>
+2023, The Astrophysical Journal, 945, 1 
+
+* __[The Supersonic Project: The Early Evolutionary Path of Supersonically Induced Gas Objects](https://ui.adsabs.harvard.edu/abs/2023ApJ...943..132L/abstract)__,  
+W. Lake et al. (incl. Y.Nakazato)
+2023, The Astrophysical Journal, 943, 2  
+
+
