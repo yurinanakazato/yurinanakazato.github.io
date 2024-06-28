@@ -29,35 +29,35 @@ Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou
 
  
 ### Co-Author  
-* __[JWST, ALMA, and Keck Spectroscopic Constraints on the UV Luminosity Functions at z~7-14: Clumpiness and Compactness of the Brightest Galaxies in the Early Universe](https://ui.adsabs.harvard.edu/abs/2024arXiv240618352H/abstract)__
+* __[JWST, ALMA, and Keck Spectroscopic Constraints on the UV Luminosity Functions at z~7-14: Clumpiness and Compactness of the Brightest Galaxies in the Early Universe](https://ui.adsabs.harvard.edu/abs/2024arXiv240618352H/abstract)__,  
 Y. Harikane, A. K. Inoue, E. Richard, M. Ouchi, Y. Nakazato, N. Yoshida et al.
 2024, arXiv:2406.18352  
-* __[Redshift-dependent galaxy formation efficiency at z=5-13 in the FirstLight simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240402537C/abstract)__
+* __[Redshift-dependent galaxy formation efficiency at z=5-13 in the FirstLight simulations](https://ui.adsabs.harvard.edu/abs/2024arXiv240402537C/abstract)__,  
 D. Ceverino, Y. Nakazato, N. Yoshida, R. Klessen, S. Glover
 2024, accepted to A&A  
-* __[RIOJA. Complex Dusty Starbursts in a Major Merger B14-65666 at z=7.15]( https://ui.adsabs.harvard.edu/abs/2024arXiv240317133S/abstract)__
+* __[RIOJA. Complex Dusty Starbursts in a Major Merger B14-65666 at z=7.15]( https://ui.adsabs.harvard.edu/abs/2024arXiv240317133S/abstract)__,  
 Y. Sugahara et al. (incl. Y.Nakazato)  
 2024, arXiv:2403.17133  
 
-* __[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__  
+* __[The Supersonic Project: Lighting up the faint end of the JWST UV luminosity function](https://ui.adsabs.harvard.edu/abs/2023arXiv231003799W/abstract)__,    
 C. E. Williams et al. (incl. Y.Nakazato)  
 2023, The Astrophysical Journal Letters 960, 2, 16, 2024  
 
-* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__  
+* __[A Photon Burst Clears the Earliest Dusty Galaxies: Modeling Dust in High-redshift Galaxies from ALMA to JWST](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4801T/abstract)__,    
 D. Tsuna, Y. Nakazato, T. Hartwig  
 2023, Monthly Notices of the Royal Astronomical Society, 526, 4, 2023  
 
 * __[The Supersonic Project: Star Formation in Early Star
-Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L...7L/abstract)__  
+Clusters without Dark Matter](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L...7L/abstract)__,    
 W. Lake et al. (incl.Y. Nakazato)  
 2023, The Astrophysical Journal Letters 956, 1, 2023
   
-* __[RIOJA I. The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__  
+* __[RIOJA I. The core of the highest redshift galaxy overdensity at z=7.88 confirmed by NIRSpec/JWST](https://ui.adsabs.harvard.edu/abs/2023arXiv230504741H/abstract)__,    
 T. Hashimoto et al. (incl. Y.Nakazato)  
  2023, The Astrophysical Journal Letters, 955, 8
  
  
-* __[Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__   
+* __[Detections of [C II] 158 μm and [O III] 88 μm in a Local Lyman Continuum Emitter, Mrk 54, and Its Implications to High-redshift ALMA Studies](https://ui.adsabs.harvard.edu/abs/2023ApJ...948....3U/abstract)__,      
 R. Ura et al. (incl. Y.Nakazato)  
  2023, The Astrophysical Journal, 948, 1
  
