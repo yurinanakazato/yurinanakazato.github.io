@@ -29,7 +29,7 @@ Y. Nakazato, G. Chiaki, N. Yoshida, S. Naoz, W. Lake, Y. Chiou
 
  
 ### Co-Author  
-* __[JWST PRIMER: A lack of outshining in four normal z =4-6 galaxies from the ALMA-CRISTAL Survey](https://ui.adsabs.harvard.edu/abs/2024arXiv240910963L/abstract)__,
+* __[JWST PRIMER: A lack of outshining in four normal z =4-6 galaxies from the ALMA-CRISTAL Survey](https://ui.adsabs.harvard.edu/abs/2024arXiv240910963L/abstract)__,  
 N. Lines et al. (incl. Y. Nakazato)
 2024, arXiv: 2409.10963  
 * __[Detection of the [OI]63 um emission line from the z=6.04 quasar J2054-0005](https://ui.adsabs.harvard.edu/abs/2024arXiv240809944I/abstract)__,  
