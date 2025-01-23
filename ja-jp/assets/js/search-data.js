@@ -389,10 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-um-anúncio-longo-com-detalhes",
+    },{id: "news-um-anúncio-longo-com-detalhes",
           title: 'Um anúncio longo com detalhes',
           description: "",
           section: "News",handler: () => {
