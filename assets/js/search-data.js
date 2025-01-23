@@ -389,10 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-will-stay-in-pisa-italy-for-four-months-i-will-investigate-dusty-outflow-with-prof-andrea-ferrara-at-scuola-normale-superiore",
+    },{id: "news-i-will-stay-in-pisa-italy-for-four-months-i-will-investigate-dusty-outflow-with-prof-andrea-ferrara-at-scuola-normale-superiore",
           title: 'I will stay in Pisa (Italy) for four months. I will investigate dusty...',
           description: "",
           section: "News",},{id: "news-new-website-is-updated",
