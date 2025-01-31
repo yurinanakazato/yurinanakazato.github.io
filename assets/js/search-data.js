@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
+        },{id: "nav-アウトリーチ等",
+          title: "アウトリーチ等",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/leadership/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
