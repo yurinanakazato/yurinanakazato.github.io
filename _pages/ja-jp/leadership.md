@@ -1,7 +1,7 @@
 ---
 page_id: talks
 layout: page
-permalink: /talks/
+permalink: /leadership/
 title: アウトリーチ等
 description: 
 nav: true
