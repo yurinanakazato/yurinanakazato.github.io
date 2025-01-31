@@ -391,7 +391,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 # SEO Related
-google_site_verification : google269415e63b1175f7.html
+#google_site_verification : google269415e63b1175f7.html
 enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
