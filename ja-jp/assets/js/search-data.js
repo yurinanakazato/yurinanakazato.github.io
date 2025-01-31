@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-学会発表",
-          title: "学会発表",
+        },{id: "nav-アウトリーチ等",
+          title: "アウトリーチ等",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -392,11 +392,11 @@ ninja.data = [{
     },{id: "news-イタリア-ピサ-に4月から7月の4ヶ月滞在します-scuola-normale-superiore-のandrea-ferrara-教授と共同研究を行います",
           title: 'イタリア(ピサ)に4月から7月の4ヶ月滞在します。Scuola Normale Superiore のAndrea Ferrara 教授と共同研究を行います。',
           description: "",
-          section: "News",},{id: "news-新しくwebpageを更新しました",
-          title: '新しくwebpageを更新しました。',
-          description: "",
           section: "News",},{id: "news-主著論文-nakazato-amp-amp-ferrara-2024-を投稿しました-jwstで観測されている赤方偏移10以上の紫外光で明るい銀河の起源をアウトフローで説明できるか解析的に検証しました",
           title: '主著論文(Nakazato &amp;amp;amp; Ferrara 2024)を投稿しました。JWSTで観測されている赤方偏移10以上の紫外光で明るい銀河の起源をアウトフローで説明できるか解析的に検証しました。',
+          description: "",
+          section: "News",},{id: "news-新しくwebpageを更新しました",
+          title: '新しくwebpageを更新しました。',
           description: "",
           section: "News",},{id: "projects-再電離期の星形成銀河からの輝線放射の計算",
           title: '再電離期の星形成銀河からの輝線放射の計算',
