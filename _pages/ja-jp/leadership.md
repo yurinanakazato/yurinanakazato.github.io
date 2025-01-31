@@ -1,5 +1,5 @@
 ---
-page_id: talks
+page_id: leadership
 layout: page
 permalink: /leadership/
 title: アウトリーチ等
