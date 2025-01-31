@@ -72,14 +72,39 @@
       "date": "2024.2"
     },
     {
-      "title": "JSR フェローシップ CURIE生",
+      "title": "JSR フェローシップ CURIE生 (2023.4-2026.3)",
       "url": "https://curie.phys.s.u-tokyo.ac.jp/fellowship/",
-      "date": "2023.4-2026.3"
+      "date": "2023.4"
     },
     {
-      "title": "日本学術振興会特別研究員 DC1",
-      "date": "2023.4-2026.3",
-      "summary": "研究課題名: 多波長輝線観測と数値シミュレーションで解き明かす宇宙最初期の銀河進化 (領域番号:<a href=\"https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0728/\">23KJ0728</a>)<br> 研究奨励金 月額20万円, 特別研究員奨励費(特別枠): 140万円/年"
+      "title": "日本学術振興会特別研究員 DC1 (2023.4-2026.3)",
+      "date": "2023.4",
+      "summary": "● 研究課題名: 多波長輝線観測と数値シミュレーションで解き明かす宇宙最初期の銀河進化 (領域番号:<a href=\"https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0728/\">23KJ0728</a>)<br> ● 研究奨励金 月額20万円, 特別研究員奨励費(特別枠): 140万円/年"
+    },
+    {
+      "title": "東大総長賞 受賞",
+      "date": "2023.3",
+      "url" : "https://www.u-tokyo.ac.jp/content/400209147.pdf"
+    },
+    {
+      "title": "東京大学大学院 理学系研究科研究奨励賞 受賞",
+      "date": "2023.3",
+      "url" : "https://www.phys.s.u-tokyo.ac.jp/award/37776/"
+    },
+    {
+      "title": "卓越大学院 (IGPEES) Qualifying Examination 優秀賞受賞",
+      "date": "2023.3",
+      "url" : "https://www.s.u-tokyo.ac.jp/ja/IGPEES/news/2023-01.html"
+    },
+    {
+      "title": "宇宙地球フロンティア国際卓越大学院 プログラム生 (2021.10-現在)",
+      "date": "2021.10",
+      "url" : "https://www.s.u-tokyo.ac.jp/ja/IGPEES/"
+    },
+    {
+      "title": "第51回 天文・天体物理若手夏の学校 星・惑星形成分科会 オーラルアワード 第1位",
+      "date": "2021.8",
+      "url" : "https://astro-wakate.sakura.ne.jp/ss2021/oralawards/"
     }
   ],
   "experiences": [
