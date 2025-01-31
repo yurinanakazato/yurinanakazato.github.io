@@ -8,7 +8,7 @@ nav: true
 nav_order: 4
 ---
 
-## International conferences  
+## 国際学会  
 2024.09: "Radiative-driven dusty outflow in compact high-z galaxies",  
 [ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan  
 
@@ -48,7 +48,7 @@ Resceu Summer School 2022, online
 2021.8: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
 Resceu Summer School 2021, online
 
-## Domestic conferences  
+## 国内学会  
 2024.9: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2024, Kwansei Gakuin University, Hyogo  
 
@@ -83,7 +83,7 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 2021.8: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
-## Seminar  
+## セミナー等   
 2024.08: "Overview of galaxy formation simulations and a review of latest studies on high-z galaxies", seminar talk, ELPIS+JWST Hack Days 2024, Yamanashi, Japan  
 
 2024.07: "Galaxy formation and evolution in the early universe using numerical simulations", seminar talk, JSR corporation, Online  
