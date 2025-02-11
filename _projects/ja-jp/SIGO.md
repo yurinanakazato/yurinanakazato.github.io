@@ -6,7 +6,6 @@ description:
 img: assets/img/SV_simulation.png
 importance: 1
 category: work
-related_publications: true
 ---
 
 宇宙初期のほんのわずかな密度ゆらぎから、暗黒物質が重力的にガスを引き寄せ、やがて銀河や星団といった大規模構造が形成されます。特に、ビッグバンから約38万年後の「宇宙再結合」の時期に残された超音速ガス流が、最初の星（初代星またはPop III星）の形成や初期の星団形成を大きく左右する可能性があることが近年注目を集めています（Tseliakovich & Hirata 2010）。このガス流はバリオン音響振動（Baryon Acoustic Oscillation）の名残であり、ガスがハロー（暗黒物質の重力ポテンシャル）へうまく落ち込みにくくすることで星形成を遅らせるだけでなく、新たな構造を生み出す可能性も示唆されています（Greif+11, Stacy+11）。
