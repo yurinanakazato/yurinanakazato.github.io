@@ -23,7 +23,7 @@ category: work
     </div>
 </div>
 <div class="caption text-center">
-    Figure1: Projected gas density, averaged ionization parameter, and [OIII] 88 µm distribution for a galaxy sample at z = 7.  
+    図1: 宇宙年齢8億年 (赤方偏移z=7)のシミュレーション銀河の密度, 電離パラメータ, および放射強度分布。高密度部分で若い星が多く分布しており、電離パラメータが大きく、[OIII]輝線強度も大きい。
 </div>  
 
 
@@ -35,5 +35,5 @@ category: work
     </div>
 </div>
 <div class="caption text-center">
-    Figure2: Gas-phase metallicity versus stellar mass for our galaxy samples from z = 9 to z = 6. The dashed line is the local mass-metallicity relation from Curti et al. (2020). Symbols with errorbars are JWST observation data of galaxies at z ∼ 6 (gray), z ∼ 8 (orange), and z ∼ 9 (blue).  
+    図2: 宇宙年齢5-10 億年(赤方偏移z=6-9)における銀河の星質量と金属量の関係。シミュレーションの銀河サンプルの分布は帯で示す。プロットはJWSTの観測結果を示す。 
 </div>
