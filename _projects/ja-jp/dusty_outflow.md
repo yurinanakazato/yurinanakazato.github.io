@@ -24,8 +24,5 @@ category: work
     </div>
 </div>
 <div class="caption text-center">
-    Figure1: The ratio of classical and modified Eddington luminosity 
-    {% raw %}($A = L_\mathrm{E} /L_\mathrm{E,mod}$){% endraw %}
-    as a function of gas column density 
-    {% raw %} 水素柱密度 $$N_\mathrm{H}$$ と金属量 Z を変数とした、古典的エディントン光度と修正エディントン光度の比 $$\bigl(A = L_\mathrm{E}/L_\mathrm{E,mod}\bigr)$$ の分布を示す。破線の円は、z > 10 の銀河で観測される値の範囲を表しており、その領域では輻射圧が約100倍に強化されていることがわかる。
+   図1: 水素柱密度 $$N_\mathrm{H}$$ と金属量 Z を変数とした、古典的エディントン光度と修正エディントン光度の比 $$\bigl(A = L_\mathrm{E}/L_\mathrm{E,mod}\bigr)$$ の分布を示す。破線の円は、z > 10 の銀河で観測される値の範囲を表しており、その領域では輻射圧が約100倍に強化されていることがわかる。
 </div>
