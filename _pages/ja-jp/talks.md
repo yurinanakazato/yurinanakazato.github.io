@@ -84,7 +84,7 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## セミナー等   
-2025.02: Invited seminar talk, University of Tsukuba  
+2025.02: "Tracing Early Galaxy Formation with FirstLight Zoom-in Simulations: Statistical Insights and Inner Structures of z > 6 Galaxies", Invited seminar talk, University of Tsukuba, Japan    
 
 2024.12: "Tracing Early Galaxy Formation with FirstLight: Statistical Insights and Inner Structures of high-z galaxies", talk, [One-day workshop on high-z cosmological simulations](https://yurinanakazato.github.io/high-z_simulation/), the University of Tokyo  
 
