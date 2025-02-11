@@ -6,7 +6,6 @@ description:
 img: assets/img/UV_bright_galaxies.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 2022年から運用開始となった宇宙望遠鏡JWSTによって、ビッグバンからわずか数億年後にあたる高赤方偏移（z > 10）の宇宙に、理論予測を上回るほど明るい銀河（MUV < −20）が多数存在することが示唆され従来の銀河進化モデルとの食い違いが明確になってきました(例:Harikane+24, Donnan+24, Perez-Gonzalez+23)。
