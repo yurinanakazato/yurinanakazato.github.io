@@ -18,5 +18,10 @@ The observed UV luminosity function at z ≧ 10 suggests the overabundance of UV
     </div>
 </div>
 <div class="caption text-center">
-    Figure1: The ratio of classical and modified Eddington luminosity ($A = L_\mathrm{E} /L_\mathrm{E,mod}$) as a function of gas column density $N_\mathrm{H}$ and metallicity Z. The dashed circle represents the range of the observed values of z > 10 galaxies. We see the radiative pressure is boosted by a factor of ∼ 100 in that region.  
+    Figure1: The ratio of classical and modified Eddington luminosity 
+    {% raw %}($A = L_\mathrm{E} /L_\mathrm{E,mod}$){% endraw %}
+    as a function of gas column density 
+    {% raw %}$N_\mathrm{H}${% endraw %} and metallicity Z.
+    The dashed circle represents the range of the observed values of {% raw %}$z > 10${% endraw %} galaxies.
+    We see the radiative pressure is boosted by a factor of ∼ 100 in that region.  
 </div>
