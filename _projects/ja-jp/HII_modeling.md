@@ -9,12 +9,31 @@ category: work
 ---
 
 
-High-redshift galaxies at $$z > 6$$ have been observed by ALMA and JWST, with strong detections of [O III] 88 µm and 5007Å, respectively. To interpret the physical properties of such [O III] -bright galaxies, I develop a physical model of HII regions and applied it to hundreds of galaxy samples from zoom-in cosmological simulations, FirstLight (Ceverino+17).
+近年ALMA や JWST による観測によって、赤方偏移 z > 6 の高赤方偏移銀河から [O III] 88 µm および 5007 Å の強い放射線が検出されています。宇宙誕生から10億年以内に形成された銀河はここ数年前から観測されはじめたため、遠方銀河の化学進化の様子が分かっていない。そこでNakazato+23では、大規模・高解像度の宇宙論的銀河形成シミュレーションを用い、銀河内部の星間ガスや星形成領域の物理モデルを取り入れ、放射される酸素輝線の強度を詳細に計算しました。
 
-Nakazato+23 show that bright [O III] emitters have ten-times higher ionized state than local galaxies and are already metal-enriched by ~ 0.2 $$Z_\odot$$ even at $$z = 9$$. Our estimation of mass-metallicity relation with rapid chemical enrichment is consistent with JWST observations (e.g., Nakajima+23). I propose line-ratio diagnostics for future synergies of JWST and ALMA. Measuring the ﬂux ratios of rest-frame optical and far-IR lines allows us to estimate the physical conditions such as electron density and metallicity of the star-forming gas in high-redshift [O III] emitters (Fujimoto+24, Zavala+24).  
+その結果、Nakazato+23 は、[O III] が明るい銀河は近傍銀河と比べて 10 倍も高い電離状態を示し、z = 9 の時点で既に金属量が太陽の約 20% (0.2 Z⊙) に達していることを明らかにしました (図1, 図2)。また、この急速な化学進化によって形成される質量と金属量の関係は、最新のJWSTの観測結果 (例: Nakajima+23) と整合的であることが分かっています。
 
-<!-- 画像部分 -->
-  <div class="col-sm-4 text-center">
-    {% include figure.liquid path="assets/img/OIII_image.png" title="Example Image" class="img-fluid rounded z-depth-1" %}
-  </div>
+さらに今後、JWST と ALMA を組み合わせた観測では、可視光〜近赤外域から遠赤外域までの輝線比を利用することで、高赤方偏移 [O III] 放射源を取り巻く星形成ガスの電子密度や金属量などの物理的条件を推定できると考えられます (Fujimoto+24, Zavala+24)。こうした研究は、宇宙初期の銀河進化や化学進化の理解を深める上で、非常に重要な役割を果たすと期待されています。
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <div style="width: 60%; margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/OIII_image.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+<div class="caption text-center">
+    Figure1: Projected gas density, averaged ionization parameter, and [OIII] 88 µm distribution for a galaxy sample at z = 7.  
+</div>  
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <div style="width: 60%; margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/MZR.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+<div class="caption text-center">
+    Figure2: Gas-phase metallicity versus stellar mass for our galaxy samples from z = 9 to z = 6. The dashed line is the local mass-metallicity relation from Curti et al. (2020). Symbols with errorbars are JWST observation data of galaxies at z ∼ 6 (gray), z ∼ 8 (orange), and z ∼ 9 (blue).  
 </div>
