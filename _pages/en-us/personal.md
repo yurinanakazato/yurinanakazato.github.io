@@ -2,7 +2,7 @@
 page_id: personal
 layout: page
 permalink: /personal/
-title: personal
+title: About me
 description: 
 nav: true
 nav_order: 6
