@@ -9,16 +9,19 @@ category: work
 related_publications: true
 ---
 
-<div class="row align-items-center">
-  <!-- 文章部分 -->
-  <div class="col-sm-8">
-    <p>
-      The formation of Pop III stars and ﬁrst stellar clusters can be affected by a cosmological effect, relative baryon-dark matter velocities, which is supersonic and driven by Baryon Acoustic Oscillation (Tseliakovich & Hirata10). The relative velocities inﬂuence the structure formation and can delay the formation of the ﬁrst stars at z ~ 25 - 15 (e.g., Greif+11, Stacy+11). Nakazato+22 perform cosmological simulations including the relative velocity and non-equilibrium chemistry. I show that the supersonic relative velocity can expel the gas from the host halo and form dark matterless dense clouds with M ~ 10^6 Msun, which reach Jeans unstable and are expected to collapse and start star formation. This might be a new pathway of proto-globular clusters as suggested analytically by Naoz & Narayan 14. The research is expanded as a “supersonic project” a collaboration with UCLA, and I contribute to four co-authors’ papers.  
-    </p>
-  </div>
+宇宙初期のほんのわずかな密度ゆらぎから、暗黒物質が重力的にガスを引き寄せ、やがて銀河や星団といった大規模構造が形成されます。特に、ビッグバンから約38万年後の「宇宙再結合」の時期に残された超音速ガス流が、最初の星（初代星またはPop III星）の形成や初期の星団形成を大きく左右する可能性があることが近年注目を集めています（Tseliakovich & Hirata 2010）。このガス流はバリオン音響振動（Baryon Acoustic Oscillation）の名残であり、ガスがハロー（暗黒物質の重力ポテンシャル）へうまく落ち込みにくくすることで星形成を遅らせるだけでなく、新たな構造を生み出す可能性も示唆されています（Greif+11, Stacy+11）。
 
-  <!-- 画像部分 -->
-  <div class="col-sm-4 text-center">
-    {% include figure.liquid path="assets/img/SIGO.png" title="Example Image" class="img-fluid rounded z-depth-1" %}
-  </div>
+近年の研究（Naoz & Narayanan 2014）では、解析的手法から超音速ガス流によって"ガス流天体"と呼ばれる暗黒物質をほとんど含まない高密度雲（質量が約10^6太陽質量）を形成し得ると予測していました。私たちの研究グループ（Nakazato+22）では、この相対速度とガスの非平衡化学反応を忠実に組み込み、３次元宇宙論的シミュレーションを行うことで、実際にガス流天体の形成を確認しました。これは従来のハロー中心の星形成モデルとは異なる新しい経路を示す重要な成果であり、ガス流天体が重力不安定によって星を形成し、最終的には原始球状星団のような天体へと進化する可能性があります。
+
+このように、初代星や最初の星団がどのように生まれたのかを理解するうえで、バリオンと暗黒物質の相対速度が果たす役割は非常に大きいと考えられます。しかし、まだ考慮されていない物理過程も多く、決定的な結論には至っていません。私たちの研究は、UCLA との共同プロジェクト「supersonic project」の一環として行われており、新たな初期天体形成モデルを提案し、宇宙初期の構造形成や星形成史をより深く解明する手がかりとなることを目指しています。  
+
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <div style="width: 60%; margin: auto;">
+            {% include figure.liquid loading="eager" path="assets/img/SIGO.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+<div class="caption text-center">
+    Figure1: ダークマター（左）とガス（右）の密度分布。最も近いダークマターハローの外側にあるガスに富む天体は、z = 21.4 の時点で高密度(ジーンズ不安定)に達しました。
 </div>
