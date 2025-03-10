@@ -21,7 +21,9 @@ Johnson & Johnson 主催の理系学部を専攻する女子学生を対象と�
 - 2019.10: __Research Presentation at Dow Chemical Company__  
 [TOMODACHI STEM Program](https://tomodachistem.rice.edu) の参加者代表として、[ダウケミカルジャパン](https://jp.dow.com/ja-jp)にてライス大学(テキサス州)での研究成果を発表。
 
-## Media 
+## Media  
+- 2025.3: NHK フロンティア [「宇宙の夜明け」](https://www.nhk.jp/p/frontiers/ts/PM34JL2L14/episode/te/M37XWL79KY/)  
+- 2024.1: プレスリリース: 遠方銀河の観測により宇宙論を検証 [UCLA](https://newsroom.ucla.edu/releases/dark-matter-reveal-bright-galaxies-beginning-of-time), Science Daily, Universe Today  
 - 2023.9: 最遠方の原始銀河団のプレスリリース ([Kavli IPMU](https://www.ipmu.jp/ja/20230920-Protocluster), 筑波大学, 早稲田
 大学, 名古屋大学)  
 - 2023.6: 東京大学新聞オンライン ([link](https://www.todaishimbun.org/insei_20230621/))  
