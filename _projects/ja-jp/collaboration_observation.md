@@ -8,5 +8,5 @@ importance: 3
 category: collaboration
 ---
 
-I have contributed to observational papers on z > 6 galaxies detected by JWST and ALMA as a theoretical interpretation (e.g., Harikane+24, Hashimoto+23) and creating mock images (e.g., Lines+24, Tanaka+24) as shown in Figure 5. My extensive knowledge and research experience of high-z objects from cosmic dawn to EoR ensures that I am the right person to further explore the earliest epoch of the Universe through the research projects.
+JWSTやALMAによって検出された赤方偏移6を超える銀河に関して、理論的解釈（例：Harikane+24, Hashimoto+23）や、図に示されているようなモック画像の作成（例：Lines+24, Tanaka+24）などの形で観測論文に貢献してきました。  
 
