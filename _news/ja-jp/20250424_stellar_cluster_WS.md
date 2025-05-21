@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-星団形成に関するワークショップを開催しました。
+星団形成に関する[ワークショップ](https://yurinanakazato.github.io/star_cluster_simulation/)を開催しました。
