@@ -9,16 +9,14 @@ nav_order: 6
 ---
 
 ## Personal 
-* I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)  
+* 沖縄生まれ。沖縄育ちです。大学から上京してきました。  
 
 
 ### Hobby
-* Reading novels and manga 
-* Watching movies 
-     * I love Sci-Fi, Thriller, Action films.
-     * I especially like [Christopher Nolan](https://www.imdb.com/name/nm0634240/)'s and [Jordan Peele](https://www.imdb.com/name/nm1443502/)'s flims.
-* Listening to K-pop
+* 漫画、小説。  
+* SF、ホラー映画。  
+* K-popが好きです。  
 
 ### Sports
-* Karate 
-* Savate (French kickboxing)  
+* 空手  
+* [サバット](http://www.savatejapan.com/_japanese/savate/jap_savate.html)
