@@ -55,32 +55,32 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2024, Kwansei Gaku
 2023.9: "Formation of clumpy galaxies during the Epoch of Reionization in zoom-in simulations",  
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2023, Nagoya University, Aichi  
 
-2023.9: "Zoom-in simulations of high-redshift galaxies & emission line modeling for JWST and ALMA", Fine-structure lines workshop 2023, Ehime Univesity, Ehime  
+[10] 2023.9: "Zoom-in simulations of high-redshift galaxies & emission line modeling for JWST and ALMA", Fine-structure lines workshop 2023, Ehime Univesity, Ehime  
 
-2023.3: "Emission line calculation of high-redshift galaxies for JWST & ALMA observation", Astrophysics Workshop for Young Researchers, The University of Tokyo, Tokyo  
+[9] 2023.3: "Emission line calculation of high-redshift galaxies for JWST & ALMA observation", Astrophysics Workshop for Young Researchers, The University of Tokyo, Tokyo  
 
-2023.3: "[OIII] emission line calculation and line diagnostics from high-redshift galaxy simulations"  
+[8] 2023.3: "[OIII] emission line calculation and line diagnostics from high-redshift galaxy simulations"  
 ASJ (The Astronomical Society of Japan) Spring Meeting 2023, Rikkyo University, Tokyo  
 
-2022.11: "[OIII] observations by ALMA and JWST and high-z galaxy evolution via simulations",  
+[7] 2022.11: "[OIII] observations by ALMA and JWST and high-z galaxy evolution via simulations",  
 [First Stars First Galaxies 2022](https://sites.google.com/view/fsfg2022/ホームhome?authuser=0), Tokushima 
 
-2022.8: "[OIII] emission line ratio in high-z galaxies",  
+[6] 2022.8: "[OIII] emission line ratio in high-z galaxies",  
 [IGM galaxy workshop 2022](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/en/2022/08/08/galaxy-igm/), Kushiro, Hokkaido 
 
-2022.3: "Statistical features of gas dominant objects(SIGOs) in the early universe",  
+[5] 2022.3: "Statistical features of gas dominant objects(SIGOs) in the early universe",  
 ASJ (The Astronomical Society of Japan) Spring Annual Meeting 2022, online
 
-2022.2: "The formation of Supersonically Induced Gas Objects by Stream Velocity",  
+[4] 2022.2: "The formation of Supersonically Induced Gas Objects by Stream Velocity",  
 [First Stars and First Galaxies Symposium 2021](https://sites.google.com/view/fsfg2021/), Tokyo
 
-2021.9: "DM deficient cluster formation by stream gas motion relative to dark matter",  
+[3] 2021.9: "DM deficient cluster formation by stream gas motion relative to dark matter",  
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
-2021.9: "The formation of Supersonically Induced Gas Objects (SIGOs) with H2 chemistry",  
+[2] 2021.9: "The formation of Supersonically Induced Gas Objects (SIGOs) with H2 chemistry",  
 [Symposium for Metal Poor Universe 2021](https://sites.google.com/view/metal-poor-universe-2021/ホーム-home), online
 
-2021.8: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
+[1] 2021.8: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## セミナー等  
