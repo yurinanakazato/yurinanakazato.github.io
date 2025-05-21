@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: 概要
 permalink: /
-subtitle: <a href='https://www.phys.s.u-tokyo.ac.jp/'>東京大学大学院理学系研究科物理学専攻</a> 博士二年
+subtitle: <a href='https://www.phys.s.u-tokyo.ac.jp/'>東京大学大学院理学系研究科物理学専攻</a> 博士3年
 
 profile:
   align: right
