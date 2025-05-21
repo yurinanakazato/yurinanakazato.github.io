@@ -18,5 +18,5 @@ nav_order: 6
 * K-popが好きです。  
 
 ### スポーツ  
-* 空手  
-* [サバット](http://www.savatejapan.com/_japanese/savate/jap_savate.html)
+* 空手  (2017-2020)
+* [サバット](http://www.savatejapan.com/_japanese/savate/jap_savate.html) (2021-)
