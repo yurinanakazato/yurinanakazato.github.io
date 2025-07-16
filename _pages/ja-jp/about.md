@@ -20,4 +20,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-遠方銀河の形成過程やその進化をシミュレーションを用いて調べています。
+遠方銀河の形成過程やその進化をシミュレーションに対して放射計算を行い調べています。
