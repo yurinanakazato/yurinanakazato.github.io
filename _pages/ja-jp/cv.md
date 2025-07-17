@@ -6,7 +6,7 @@ title: 履歴書
 nav: true
 nav_order: 4
 cv_pdf: CV_yurina_nakazato.pdf
-description: updated Jan 2025.
+description: updated Jul 2025.
 toc:
   sidebar: left
 ---
