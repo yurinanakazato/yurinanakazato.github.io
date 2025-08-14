@@ -23,67 +23,71 @@ nav_order: 4
 [Resolving the Extragalactic Universe
 with ALMA & JWST](https://sites.google.com/view/resolvinguniverse2023/home), Waseda Univ., Tokyo, Japan
 
-[8] 2023.8: "Simulations of high-redshift [OIII] emitters: Chemical evolution and bursty star formation history",  
+[8] 2023.08: "Simulations of high-redshift [OIII] emitters: Chemical evolution and bursty star formation history",  
 [RESCEU summer school](https://sites.google.com/view/resceu-ss2023/top?authuser=0), Shinshu Univ., Nagano, Japan
 
-[7] 2023.7: "Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics",  
+[7] 2023.07: "Simulations of high-redshift [OIII] emitters: Chemical evolution and multi-line diagnostics",  
 [Shedding new light on the first billion years of the Universe](https://geco2023-1gyr.sciencesconf.org), Marseille, France  
 
-
-[6] 2022.9: "The formation of star clusters in the early universe through supersonic gas streams”,  
+[6] 2022.09: "The formation of star clusters in the early universe through supersonic gas streams”,  
 [The 9th East Asian Numerical Astrophysics Meeting (EANAM9)](https://hpc.imit.chiba-u.jp/eanam9/), Okinawa, Japan
 
-[5] 2022.8: “Effect of streaming motion of baryons relative to dark matter and the formation of star clusters”,   
+[5] 2022.08: “Effect of streaming motion of baryons relative to dark matter and the formation of star clusters”,   
 [Star Formation in Different Environments (SFDE) 2022](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html), Quy Nhon, Vietnam
 
-[4] 2022.8: “[OIII] emission lines from high-z galaxies in the Epoch of Reionization”,  
+[4] 2022.08: “[OIII] emission lines from high-z galaxies in the Epoch of Reionization”,  
 Resceu Summer School 2022, online
 
-[3] 2022.7: “The formation of gas-rich structure through baryon-dark matter streaming motion”,  
+[3] 2022.07: “The formation of gas-rich structure through baryon-dark matter streaming motion”,  
 [National Astronomy Meeting (NAM) 2022](https://nam2022.org), online
 
 [2] 2021.11: “The formation of Supersonically Induced Gas Objects (SIGOs) with H2 cooling”,  
 [IAU Symposium 362 The predictive power of computational astrophysics as a discovery tool](http://iaus362.astro.unistra.fr/IAUS362.html), online 
 
-[1] 2021.8: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
+[1] 2021.08: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
 Resceu Summer School 2021, online
 
 ## 国内学会  
-[12] 2024.9: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
+[13] 2025.08: "Line Diagnostics of High-Redshift Galaxies: Synergies Between JWST and ALMA", invited talk, the Fine Structure Line Workshop 2025, Hokkai-Gakuen University, Hokkaido  
+
+[12] 2024.09: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2024, Kwansei Gakuin University, Hyogo  
 
-[11] 2023.9: "Formation of clumpy galaxies during the Epoch of Reionization in zoom-in simulations",  
+[11] 2023.09: "Formation of clumpy galaxies during the Epoch of Reionization in zoom-in simulations",  
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2023, Nagoya University, Aichi  
 
-[10] 2023.9: "Zoom-in simulations of high-redshift galaxies & emission line modeling for JWST and ALMA", Fine-structure lines workshop 2023, Ehime Univesity, Ehime  
+[10] 2023.09: "Zoom-in simulations of high-redshift galaxies & emission line modeling for JWST and ALMA", Fine-structure lines workshop 2023, Ehime Univesity, Ehime  
 
-[9] 2023.3: "Emission line calculation of high-redshift galaxies for JWST & ALMA observation", Astrophysics Workshop for Young Researchers, The University of Tokyo, Tokyo  
+[9] 2023.03: "Emission line calculation of high-redshift galaxies for JWST & ALMA observation", Astrophysics Workshop for Young Researchers, The University of Tokyo, Tokyo  
 
-[8] 2023.3: "[OIII] emission line calculation and line diagnostics from high-redshift galaxy simulations"  
+[8] 2023.03: "[OIII] emission line calculation and line diagnostics from high-redshift galaxy simulations"  
 ASJ (The Astronomical Society of Japan) Spring Meeting 2023, Rikkyo University, Tokyo  
 
 [7] 2022.11: "[OIII] observations by ALMA and JWST and high-z galaxy evolution via simulations",  
 [First Stars First Galaxies 2022](https://sites.google.com/view/fsfg2022/ホームhome?authuser=0), Tokushima 
 
-[6] 2022.8: "[OIII] emission line ratio in high-z galaxies",  
+[6] 2022.08: "[OIII] emission line ratio in high-z galaxies",  
 [IGM galaxy workshop 2022](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/en/2022/08/08/galaxy-igm/), Kushiro, Hokkaido 
 
-[5] 2022.3: "Statistical features of gas dominant objects(SIGOs) in the early universe",  
+[5] 2022.03: "Statistical features of gas dominant objects(SIGOs) in the early universe",  
 ASJ (The Astronomical Society of Japan) Spring Annual Meeting 2022, online
 
-[4] 2022.2: "The formation of Supersonically Induced Gas Objects by Stream Velocity",  
+[4] 2022.02: "The formation of Supersonically Induced Gas Objects by Stream Velocity",  
 [First Stars and First Galaxies Symposium 2021](https://sites.google.com/view/fsfg2021/), Tokyo
 
-[3] 2021.9: "DM deficient cluster formation by stream gas motion relative to dark matter",  
+[3] 2021.09: "DM deficient cluster formation by stream gas motion relative to dark matter",  
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
-[2] 2021.9: "The formation of Supersonically Induced Gas Objects (SIGOs) with H2 chemistry",  
+[2] 2021.09: "The formation of Supersonically Induced Gas Objects (SIGOs) with H2 chemistry",  
 [Symposium for Metal Poor Universe 2021](https://sites.google.com/view/metal-poor-universe-2021/ホーム-home), online
 
-[1] 2021.8: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
+[1] 2021.08: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## セミナー等  
+[14] 2025.08: "Physical properties and Inner structures of high-redshift galaxies using cosmological zoom-in simulations", invited seminar talk, Hokkaido University, Japan  
+
+[13] 2025.07: "Inner Structure, ISM, and Star Formation in z > 6 Galaxies: Insights from Cosmological Zoom-in Simulations and JWST/ALMA Observations", invited seminar talk, Kyoto University, Japan  
 [12] 2025.04: "Merger-driven clump formation in high-redshift galaxies", talk, [One-day workshop for stellar cluster simulation](https://yurinanakazato.github.io/star_cluster_simulation/), the University of Tokyo  
 
 [11] 2025.02: "Tracing Early Galaxy Formation with FirstLight Zoom-in Simulations: Statistical Insights and Inner Structures of z > 6 Galaxies", Invited seminar talk, University of Tsukuba, Japan    
@@ -102,9 +106,9 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
 [4] 2023.12: "Chemical evolution and bursty star formation history of high-redshift galaxies from ALMA to JWST", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
 
-[3] 2023.8: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
+[3] 2023.08: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
 
-[2] 2023.3: "H2 cooling of gravitational collapse of SIGOs with high-resolution simulations",   
+[2] 2023.03: "H2 cooling of gravitational collapse of SIGOs with high-resolution simulations",   
 Supersonic Project: Collaboration meeting, UCLA, US  
 
-[1] 2023.3: "Formation and evolution of star clusters and galaxies in the early Universe", UCLA
+[1] 2023.03: "Formation and evolution of star clusters and galaxies in the early Universe", UCLA
