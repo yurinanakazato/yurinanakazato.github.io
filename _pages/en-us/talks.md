@@ -86,7 +86,9 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
 ## Seminar  
 [14] 2025.08: "Physical properties and Inner structures of high-redshift galaxies using cosmological zoom-in simulations", invited seminar talk, Hokkaido University, Japan  
+
 [13] 2025.07: "Inner Structure, ISM, and Star Formation in z > 6 Galaxies: Insights from Cosmological Zoom-in Simulations and JWST/ALMA Observations", invited seminar talk, Kyoto University, Japan  
+
 [12] 2025.04: "Merger-driven clump formation in high-redshift galaxies", talk, [One-day workshop for stellar cluster simulation](https://yurinanakazato.github.io/star_cluster_simulation/), the University of Tokyo  
 
 [11] 2025.02: "Tracing Early Galaxy Formation with FirstLight Zoom-in Simulations: Statistical Insights and Inner Structures of z > 6 Galaxies", Invited seminar talk, University of Tsukuba, Japan    
