@@ -7,7 +7,7 @@ subtitle: 5 th year Ph.D. student at <a href='https://www-utap.phys.s.u-tokyo.ac
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_nakazato.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Science Building 1, The University of Tokyo</p>
