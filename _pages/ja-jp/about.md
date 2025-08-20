@@ -7,7 +7,7 @@ subtitle: <a href='https://www.phys.s.u-tokyo.ac.jp/'>東京大学大学院理�
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_nakazato.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>理学部1号館</p>
