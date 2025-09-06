@@ -9,9 +9,10 @@ nav_order: 4
 ---
 
 ## International conferences  
-[13] 2024.09: "Radiative-driven dusty outflow in compact high-z galaxies",  
-[ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan  
+[14] 2025.09: "Spatially Resolved Dust in High-Redshift Clumpy Galaxies from Zoom-in Cosmological Simulations", Gas/Dust Mini Workshop in Hiroshima, Hiroshima, Japan  
 
+[13] 2024.09: "Radiative-driven dusty outflow in compact high-z galaxies",  
+[ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan   
 [12] 2024.08: "A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation", [IAUS391](https://jadc.swin.edu.au/#IAUS391), Cape Town, South Africa  
 
 [11] 2024.07: "FirstLight zoom-in simulations: Formation mechanism of [OIII]-bright clumps in high-redshift galaxies from z=6-9", [European Astronomical Society Annual meeting 2024](https://eas.unige.ch/EAS2024/), Padova, Italy  
@@ -48,6 +49,8 @@ Resceu Summer School 2022, online
 Resceu Summer School 2021, online
 
 ## Domestic conferences  
+[14] 2025.09: "The Origin of [O III]/[C II] Ratios in High-Redshift Galaxies Probed by High-Resolution Radiative Transfer Simulations", ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2025, KAIKYO MESSE SHIMONOSEKI, Yamaguchi  
+
 [13] 2025.08: "Line Diagnostics of High-Redshift Galaxies: Synergies Between JWST and ALMA", invited talk, the Fine Structure Line Workshop 2025, Hokkai-Gakuen University, Hokkaido  
 
 [12] 2024.09: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
