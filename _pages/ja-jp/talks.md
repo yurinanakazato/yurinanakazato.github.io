@@ -9,6 +9,8 @@ nav_order: 4
 ---
 
 ## 国際学会  
+[14] 2025.09: "Spatially Resolved Dust in High-Redshift Clumpy Galaxies from Zoom-in Cosmological Simulations", Gas/Dust Mini Workshop in Hiroshima, Hiroshima, Japan  
+
 [13] 2024.09: "Radiative-driven dusty outflow in compact high-z galaxies",  
 [ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan  
 
@@ -48,6 +50,8 @@ Resceu Summer School 2022, online
 Resceu Summer School 2021, online
 
 ## 国内学会  
+[14] 2025.09: "The Origin of [O III]/[C II] Ratios in High-Redshift Galaxies Probed by High-Resolution Radiative Transfer Simulations", ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2025, KAIKYO MESSE SHIMONOSEKI, Yamaguchi  
+
 [13] 2025.08: "Line Diagnostics of High-Redshift Galaxies: Synergies Between JWST and ALMA", invited talk, the Fine Structure Line Workshop 2025, Hokkai-Gakuen University, Hokkaido  
 
 [12] 2024.09: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
