@@ -3,16 +3,15 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: 5 th year Ph.D. student at <a href='https://www-utap.phys.s.u-tokyo.ac.jp/index.html'>the University of Tokyo</a>.
+subtitle: <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'>Flatiron Institute, Center for Computational Astrophysics (CCA)</a> Flatiron Research Fellow (FRF).
 
 profile:
   align: right
   image: profile_nakazato.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Science Building 1, The University of Tokyo</p>
-    <p>7-3-1, Hongo, Bunkyo-ku</p>
-    <p>Tokyo, Japan, 113-8654</p>
+    <p>162 5th Avenue, 5th floor,</p>
+    <p>New York, NY 10010</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
