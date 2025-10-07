@@ -4,4 +4,5 @@ date: 2025-10-02
 inline: true
 related_posts: false
 ---
-2025年度 第20回「ロレアル－ユネスコ女性科学者 日本奨励賞」を受賞しました。()
+2025年度 第20回「ロレアル－ユネスコ女性科学者 日本奨励賞」を受賞しました。([リンク](https://www.loreal.com/ja-jp/japan/press-releases/brands/fwis-20th-anniversary/) 
+)
