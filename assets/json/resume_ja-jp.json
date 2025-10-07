@@ -6,13 +6,13 @@
     "email": "yurina.nakazato@phys.s.u-tokyo.ac.jp",
     "phone": "",
     "url": "https://yurinanakazato.github.io/ja-jp/",
-    "summary": "東京大学 理学系研究科 物理学専攻 博士3年",
+    "summary": "Flatiron Research Fellow @ Center for Computational Astrophysics (CCA)",
     "location": {
-      "address": "東京都文京区本郷7丁目3-1",
-      "postalCode": "113-8654",
-      "city": "東京",
-      "countryCode": "JPN",
-      "region": "日本"
+      "address": "162 5th Ave 5th floor, New York, NY",
+      "postalCode": "10010",
+      "city": "NewYork",
+      "countryCode": "US",
+      "region": "アメリカ"
     },
     "profiles": [
       {
@@ -25,9 +25,9 @@
   "work": [
     {
       "name": "",
-      "position": "東京大学大学院 理学系研究科物理学専攻 博士課程",
-      "url": "https://www.phys.s.u-tokyo.ac.jp/",
-      "startDate": "2023.4",
+      "position": "Flatiron Research Fellow",
+      "url": "https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/",
+      "startDate": "2025.10",
       "endDate": "",
       "summary": "遠方銀河の形成とその進化"
     }
@@ -38,8 +38,9 @@
       "position": "",
       "studyType": "東京大学大学院 理学系研究科物理学専攻 博士課程",
       "startDate": "2023.4",
-      "endDate": "",
-      "supervisor": "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀</a>教授"
+      "endDate": "2025.9",
+      "supervisor": "指導教員: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/index_j.html\">吉田直紀</a>教授", 
+      "thesis": "博士論文: <a href=\"https://www.dropbox.com/scl/fi/r46d2kbhpe8eguj27pyel/PhD_thesis_Yurina_Nakazato.pdf?rlkey=qrgs09spqaieknzsbmcs0onlz&dl=0\">宇宙論的シミュレーションと多波長放射モデルで探る高赤方偏移銀河の形成と内部構造</a>"
     },
     {
       "institution": "",
