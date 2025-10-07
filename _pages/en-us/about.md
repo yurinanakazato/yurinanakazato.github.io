@@ -27,7 +27,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-Hi I am Yurina Nakazato (仲里佑利奈). I am 5th-year Ph.D. student at [the University of Tokyo Theoretical Astrophysics (UTAP)](https://www-utap.phys.s.u-tokyo.ac.jp/index.html) in [Department of Physics, Graduate School of Science](https://www.phys.s.u-tokyo.ac.jp/en/),[the University of Tokyo](https://www.u-tokyo.ac.jp/en/). 
+Hi I am Yurina Nakazato (仲里佑利奈). I earned my Ph.D. in Physics in September 2025.  
+I am working as a Flatiron Research Fellow at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), since October 2025.  
+
+My current email address is ynakazato[AT]flatironinstitute.org (The previous Utokyo account is expired). You can also contact me at yurina.nakazato.astro[AT]gmail.com. (Please replace [AT] with @.)  
+
+- I wrote a blog about applying for postdoctoral positions: [海外ポスドク応募の備忘録](https://sites.google.com/view/postdoc-application/%E3%83%9B%E3%83%BC%E3%83%A0#h.n5c8vxmgr7oe) (sorry, only in Japanese — but there are plenty of resources in English!). Hope this helps especially for Japanese Ph.D. students who are applying for postdoctoral fellowships outside Japan.  
+  
 
 ## Research Interest  
 * First star formation  
@@ -38,3 +44,4 @@ Hi I am Yurina Nakazato (仲里佑利奈). I am 5th-year Ph.D. student at [the U
 * High-redshift galaxies    
  (modeling of emission lines from high-redshift galaxies by galaxy formation simulations)
  Our results of RIOJA project using JWST have been published as a press release. [link](https://www.ipmu.jp/en/20230920-Protocluster)
+
