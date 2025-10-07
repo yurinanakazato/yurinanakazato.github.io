@@ -437,7 +437,7 @@ ninja.data = [{
           title: '博士課程を半年早期に修了しました。',
           description: "",
           section: "News",},{id: "news-2025年度-第20回-ロレアル-ユネスコ女性科学者-日本奨励賞-を受賞しました-リンク",
-          title: '2025年度 第20回「ロレアル－ユネスコ女性科学者 日本奨励賞」を受賞しました。(リンク)',
+          title: '2025年度 第20回「ロレアル－ユネスコ女性科学者 日本奨励賞」を受賞しました。(リンク  )',
           description: "",
           section: "News",},{id: "news-i-have-joined-the-center-for-computational-astrophysics-cca-flatiron-institute-as-a-flatiron-research-fellow",
           title: 'I have joined the Center for Computational Astrophysics (CCA), Flatiron Institute, as a...',
