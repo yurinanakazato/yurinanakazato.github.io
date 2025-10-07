@@ -22,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 遠方銀河の形成過程やその進化をシミュレーションに対して放射計算を行い調べています。  
 
 - 2025年10月からFlatiron Institute, Center for Computational Astrophysics にポスドクとして勤務しています。  
+  
 - メールアドレスは ynakazato[AT]flatironinstitute.org です (以前のUtokyo アカウントは使用出来ません)。 またはyurina.nakazato.astro[AT]gmail.com にご連絡ください。[AT] は@に変えて下さい。  
-
 
 
 - [海外ポスドク応募の備忘録](https://sites.google.com/view/postdoc-application/%E3%83%9B%E3%83%BC%E3%83%A0#h.n5c8vxmgr7oe)を作成しました(2025年10月7日更新)。初めて応募する人に参考になれば幸いです。
