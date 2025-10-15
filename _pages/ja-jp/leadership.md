@@ -31,8 +31,10 @@ Johnson & Johnson 主催の理系学部を専攻する女子学生を対象と�
 - 2023.4: キミの東大 ([link](https://kimino.ct.u-tokyo.ac.jp/16029/))
 
 ## Research and International experience  
+* 2024.4-2024.8: __Visiting Student at Scuola Normale Superiore__
+    * ピサ高等師範学校にて[Andrea Ferrara](https://scholar.google.com/citations?user=ykYbBasAAAAJ&hl=en)氏と共同研究を行った。
 * 2023.11-2023.12: __Visiting Student at Universidad Autonoma de Madrid__
-    * マドリード自治大学にて[Daniel Ceverino](http://odin.ft.uam.es/Welcome.html)氏と共同研究を行った。
+    * マドリード自治大学にて[Daniel Ceverino](http://odin.ft.uam.es/Welcome.html)氏と共同研究を行った。  
 * 2023.2-2023.3: __Visiting Student at UCLA__  
     * カリフォルニア大学ロサンゼルス校の[Naoz 研](https://www.astro.ucla.edu/~snaoz/)にて共同研究を行った。
     * [Collaboration meeting](https://www.astro.ucla.edu/~snaoz/TheSupersonicProject/Meeting2023.html)に参加、発表を行った。
@@ -42,7 +44,7 @@ Johnson & Johnson 主催の理系学部を専攻する女子学生を対象と�
 * 2019.12-2020.1: __Online Language Excange Program - Utokyo & TUM-__  
     * Participated in an online international exchange program with students from Technical University of Munich
 
-* 2019.6-9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__  
+* 2019.6-2019.9: __[UTokyo Global Internship Program](https://www.u-tokyo.ac.jp/ja/students/special-activities/ugip.html)__  
     * 東京大学グローバル・インターンシップ 第一期生採択。  
     * DAIKIN のヨーロッパ支部 (ベルギー)にて企業インターン。  
 
