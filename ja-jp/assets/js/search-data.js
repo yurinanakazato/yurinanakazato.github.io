@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-履歴書",
           title: "履歴書",
-          description: "updated Jul 2025.",
+          description: "updated October 2025.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
