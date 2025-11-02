@@ -14,17 +14,17 @@ nav_order: 6
 <figure style="text-align:center; margin:0;">
   <img src="../../assets/img/Okinawa-Map.jpg"
        alt="Okinawa map"
-       width="400"
-       style="border-radius:0;">
+       height="250"
+       style="border-radius:0; object-fit:cover;">
   <figcaption style="margin-top:8px; font-size:0.9em; color:#555;">
-    Location of Okinawa Islands. Taken from pelletierskarate.com .
+    Location of Okinawa Islands. Taken from pelletierskarate.com.
   </figcaption>
 </figure>
 <figure style="text-align:center; margin:0;">
   <img src="../../assets/img/okinawa.png"
        alt="Okinawa picture"
-       width="400"
-       style="border-radius:0;">
+       height="250"
+       style="border-radius:0; object-fit:cover;">
   <figcaption style="margin-top:8px; font-size:0.9em; color:#555;">
     A beautiful view of Okinawa.
   </figcaption>
