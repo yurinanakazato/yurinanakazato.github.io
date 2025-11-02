@@ -447,8 +447,8 @@ ninja.data = [{
           description: "using FirstLight simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HII_modeling/";
-            },},{id: "projects-origins-of-oiii-cii-ratios-ionize-and-neutral-ism-physics",
-          title: 'Origins of [OIII]/[CII] Ratios: Ionize and Neutral ISM Physics',
+            },},{id: "projects-origins-of-oiii-cii-ratios-ionized-and-neutral-ism-physics",
+          title: 'Origins of [OIII]/[CII] Ratios: Ionized and Neutral ISM Physics',
           description: "Using a sub-pc resolution radiative transfer simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OIII_CII_ratio/";
