@@ -17,7 +17,7 @@ nav_order: 6
        width="400"
        style="border-radius:0;">
   <figcaption style="margin-top:8px; font-size:0.9em; color:#555;">
-    Location of Okinawa Islands.
+    Location of Okinawa Islands. Taken from pelletierskarate.com .
   </figcaption>
 </figure>
 <figure style="text-align:center; margin:0;">
