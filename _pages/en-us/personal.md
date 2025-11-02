@@ -10,25 +10,29 @@ nav_order: 6
 
 ## About Me
 * I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)
- <figure style="text-align: center;">
-  <img src="../../assets/img/Location_Ryukyu_Islands.png"
-       alt="Okinawa picture"
-       width="200"
-       style="display: block; margin-left: auto; margin-right: auto; border-radius: 0;">
-  <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
-    Location of Okinawa Islands.
-  </figcaption>
-</figure>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<figure style="text-align: center;">
-  <img src="../../assets/img/okinawa.png"
-       alt="Okinawa picture"
-       width="200"
-       style="display: block; margin-left: auto; margin-right: auto; border-radius: 0;">
-  <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
-    A beautiful view of Okinawa.
-  </figcaption>
-</figure>
+  <figure style="text-align: center;">
+    <img src="../../assets/img/Location_Ryukyu_Islands.png"
+         alt="Okinawa map"
+         width="200"
+         style="border-radius: 0;">
+    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
+      Location of Okinawa Islands.
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="../../assets/img/okinawa.png"
+         alt="Okinawa picture"
+         width="200"
+         style="border-radius: 0;">
+    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
+      A beautiful view of Okinawa.
+    </figcaption>
+  </figure>
+
+</div>
  
 ### Hobby
 * Reading novels and manga 
