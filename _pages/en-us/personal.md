@@ -10,9 +10,16 @@ nav_order: 6
 
 ## About Me
 * I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)
-  
-
-
+<figure style="text-align: center;">
+  <img src="../assets/img/okinawa.HEIC"
+       alt="Okinawa picture"
+       width="200"
+       style="display: block; margin-left: auto; margin-right: auto; border-radius: 0;">
+  <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
+    A beautiful view of Okinawa.
+  </figcaption>
+</figure>
+ 
 ### Hobby
 * Reading novels and manga 
 * Watching movies 
