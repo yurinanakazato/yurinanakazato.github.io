@@ -8,8 +8,9 @@ nav: true
 nav_order: 6
 ---
 
-## Personal 
-* I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)  
+## About Me
+* I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)
+  
 
 
 ### Hobby
@@ -20,5 +21,5 @@ nav_order: 6
 * Listening to K-pop
 
 ### Sports
-* Karate 
-* Savate (French kickboxing)  
+* Karate (2017-2021)
+* Savate (French kickboxing, 2021-2025)  
