@@ -447,9 +447,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HII_modeling/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-origins-of-oiii-cii-ratios-ionize-and-neutral-ism-physics",
+          title: 'Origins of [OIII]/[CII] Ratios: Ionize and Neutral ISM Physics',
+          description: "Using a sub-pc resolution radiative transfer simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OIII_CII_ratio/";
             },},{id: "projects-宇宙最初期の星団形成",

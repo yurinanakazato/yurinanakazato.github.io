@@ -447,9 +447,9 @@ ninja.data = [{
           description: "using FirstLight simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HII_modeling/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-origins-of-oiii-cii-ratios-ionize-and-neutral-ism-physics",
+          title: 'Origins of [OIII]/[CII] Ratios: Ionize and Neutral ISM Physics',
+          description: "Using a sub-pc resolution radiative transfer simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OIII_CII_ratio/";
             },},{id: "projects-first-stellar-cluster-formation-at-z-15-25",
