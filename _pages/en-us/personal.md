@@ -10,28 +10,25 @@ nav_order: 6
 
 ## About Me
 * I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <figure style="text-align: center;">
-    <img src="../../assets/img/Okinawa-Map.jpg"
-         alt="Okinawa map"
-         width="200"
-         style="border-radius: 0;">
-    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
-      Location of Okinawa Islands.
-    </figcaption>
-  </figure>
-
-  <figure style="text-align: center;">
-    <img src="../../assets/img/okinawa.png"
-         alt="Okinawa picture"
-         width="200"
-         style="border-radius: 0;">
-    <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
-      A beautiful view of Okinawa.
-    </figcaption>
-  </figure>
-
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:40px; flex-wrap:wrap;">
+<figure style="text-align:center; margin:0;">
+  <img src="../../assets/img/Okinawa-Map.jpg"
+       alt="Okinawa map"
+       width="400"
+       style="border-radius:0;">
+  <figcaption style="margin-top:8px; font-size:0.9em; color:#555;">
+    Location of Okinawa Islands.
+  </figcaption>
+</figure>
+<figure style="text-align:center; margin:0;">
+  <img src="../../assets/img/okinawa.png"
+       alt="Okinawa picture"
+       width="400"
+       style="border-radius:0;">
+  <figcaption style="margin-top:8px; font-size:0.9em; color:#555;">
+    A beautiful view of Okinawa.
+  </figcaption>
+</figure>
 </div>
  
 ### Hobby
