@@ -29,7 +29,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hi I am Yurina Nakazato (仲里佑利奈). I earned my Ph.D. in Physics in September 2025.  
 I am working as a Flatiron Research Fellow at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), since October 2025.  
 
-My current email address is ynakazato[AT]flatironinstitute.org (The previous Utokyo account is expired). You can also contact me at yurina.nakazato.astro[AT]gmail.com. (Please replace [AT] with @.)  
+- My current email address is ynakazato[AT]flatironinstitute.org (The previous Utokyo account has expired). You can also contact me at yurina.nakazato.astro[AT]gmail.com. (Please replace [AT] with @.)  
 
 - I wrote a blog about applying for postdoctoral positions: [海外ポスドク応募の備忘録](https://sites.google.com/view/postdoc-application/%E3%83%9B%E3%83%BC%E3%83%A0#h.n5c8vxmgr7oe) (sorry, only in Japanese — but there are plenty of resources in English!). Hope this helps especially for Japanese Ph.D. students who are applying for postdoctoral fellowships outside Japan.  
   
