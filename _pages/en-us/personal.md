@@ -11,7 +11,7 @@ nav_order: 6
 ## About Me
 * I was born and raised in Okinawa, Japan's southermost prefecture. (for 18 years)
 <figure style="text-align: center;">
-  <img src="../../assets/img/okinawa.HEIC"
+  <img src="../../assets/img/okinawa.png"
        alt="Okinawa picture"
        width="200"
        style="display: block; margin-left: auto; margin-right: auto; border-radius: 0;">
