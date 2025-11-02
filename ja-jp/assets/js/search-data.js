@@ -447,11 +447,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HII_modeling/";
-            },},{id: "projects-最遠方銀河での明るい紫外光の起源",
-          title: '最遠方銀河での明るい紫外光の起源',
+            },},{id: "projects-",
+          title: '',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/dusty_outflow/";
+              window.location.href = "/projects/OIII_CII_ratio/";
             },},{id: "projects-宇宙最初期の星団形成",
           title: '宇宙最初期の星団形成',
           description: "",
@@ -467,6 +467,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/collaboration_observation/";
+            },},{id: "projects-最遠方銀河での明るい紫外光の起源",
+          title: '最遠方銀河での明るい紫外光の起源',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dusty_outflow/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
           description: "UCLAグループとの共同研究",

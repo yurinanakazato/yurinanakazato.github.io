@@ -447,8 +447,8 @@ ninja.data = [{
           description: "using FirstLight simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HII_modeling/";
-            },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
-          title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
+            },},{id: "projects-",
+          title: '',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/OIII_CII_ratio/";
@@ -467,6 +467,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/collaboration_observation/";
+            },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
+          title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dusty_outflow/";
             },},{id: "projects-the-supersonic-project",
           title: 'The Supersonic Project',
           description: "Collaboration with UCLA group",
