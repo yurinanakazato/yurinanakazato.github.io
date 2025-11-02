@@ -13,7 +13,7 @@ nav_order: 6
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <figure style="text-align: center;">
-    <img src="../../assets/img/Location_Ryukyu_Islands.png"
+    <img src="../../assets/img/Okinawa-Map.jpg"
          alt="Okinawa map"
          width="200"
          style="border-radius: 0;">
