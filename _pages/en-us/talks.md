@@ -88,6 +88,8 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
+[15] 2025.11: "Chemical & Dynamical Evolution of high-redshift [OIII] emitters using FirstLight zoom-in simulations", CCA-NY area galaxy seminar, Flatiron Institute  
+
 [14] 2025.08: "Physical properties and Inner structures of high-redshift galaxies using cosmological zoom-in simulations", invited seminar talk, Hokkaido University, Japan  
 
 [13] 2025.07: "Inner Structure, ISM, and Star Formation in z > 6 Galaxies: Insights from Cosmological Zoom-in Simulations and JWST/ALMA Observations", invited seminar talk, Kyoto University, Japan  
