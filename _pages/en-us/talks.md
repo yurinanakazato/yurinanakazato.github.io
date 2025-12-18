@@ -3,7 +3,7 @@ page_id: talks
 layout: page
 permalink: /talks/
 title: talks
-description: 
+description: * is an invited talk
 nav: true
 nav_order: 4
 ---
