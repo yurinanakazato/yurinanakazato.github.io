@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-学会発表",
-          title: "学会発表",
+        },{id: "nav-talks",
+          title: "talks",
           description: "",
           section: "Navigation",
           handler: () => {
