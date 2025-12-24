@@ -3,17 +3,22 @@ page_id: talks
 layout: page
 permalink: /talks/
 title: 学会発表
-description: 
+description: "* indicates invited talks"
 nav: true
 nav_order: 4
 ---
 
-## 国際学会  
+## International conferences  
+[17]  2026.03: "Formation of [O III]-Bright Clumpy Galaxies at z > 6 in Cosmological Zoom-in Simulations", [Tokyo JWST conference 2026, Towards the Full Bloom of First Star, Galaxy, and Black Hole Formation Exploration](http://cos.icrr.u-tokyo.ac.jp/conference/tokyojwst2026/)  
+
+[16*] 2026.03: "Synergies between JWST and ALMA: Unveiling Galaxy Dynamics and ISM Physics in the Early Universe", [Star Forming Galaxies in the Reionization Epoch: ALMA-Driven Studies with the Aid of JWST](https://sites.google.com/view/ishigaki-alma-2026/home), Okinawa, Japan  
+
+[15*] 2026.02: "The Evolution of Metals and Dust in Massive Galaxies during the Epoch of Reionization: Insights from Simulations and JWST-ALMA Synergies", From Dust Till Dawn, Leiden, Netherlands  
+
 [14] 2025.09: "Spatially Resolved Dust in High-Redshift Clumpy Galaxies from Zoom-in Cosmological Simulations", Gas/Dust Mini Workshop in Hiroshima, Hiroshima, Japan  
 
 [13] 2024.09: "Radiative-driven dusty outflow in compact high-z galaxies",  
-[ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan  
-
+[ILR workshop 2024 @Osaka: From Galaxy Formation to Supermassive Black Holes](https://sites.google.com/view/ilr-ws-2024/home), Osaka, Japan   
 [12] 2024.08: "A merger-driven scenario for clumpy galaxy formation in the epoch of reionization: Physical properties of clumps in the FirstLight simulation", [IAUS391](https://jadc.swin.edu.au/#IAUS391), Cape Town, South Africa  
 
 [11] 2024.07: "FirstLight zoom-in simulations: Formation mechanism of [OIII]-bright clumps in high-redshift galaxies from z=6-9", [European Astronomical Society Annual meeting 2024](https://eas.unige.ch/EAS2024/), Padova, Italy  
@@ -49,10 +54,12 @@ Resceu Summer School 2022, online
 [1] 2021.08: "The formation of Supersonically Induced Gas Objects (SIGOs)",  
 Resceu Summer School 2021, online
 
-## 国内学会  
+## Domestic conferences  
+[15] 2026.03: "Clump-scale dust attenuation and re-emission in EoR galaxies from simulations", ASJ (The Astronomical Society of Japan) Spring Annual Meeting 2026, Kyoto Sangyo University, Kyoto  
+
 [14] 2025.09: "The Origin of [O III]/[C II] Ratios in High-Redshift Galaxies Probed by High-Resolution Radiative Transfer Simulations", ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2025, KAIKYO MESSE SHIMONOSEKI, Yamaguchi  
 
-[13] 2025.08: "Line Diagnostics of High-Redshift Galaxies: Synergies Between JWST and ALMA", invited talk, the Fine Structure Line Workshop 2025, Hokkai-Gakuen University, Hokkaido  
+[13*] 2025.08: "Line Diagnostics of High-Redshift Galaxies: Synergies Between JWST and ALMA", invited talk, the Fine Structure Line Workshop 2025, Hokkai-Gakuen University, Hokkaido  
 
 [12] 2024.09: "Radiative-driven dusty outflow by compact z > 10 galaxies", 
 ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2024, Kwansei Gakuin University, Hyogo  
@@ -88,16 +95,18 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [1] 2021.08: "Supersonically Induced Gas Objecs via relative velocities between baryon and dark matter",  
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
-## セミナー等  
+## Seminar  
+[16*] 2026.04: Invited seminar talk, University of Maryland, Maryland, The United States  
+
 [15] 2025.11: "Chemical & Dynamical Evolution of high-redshift [OIII] emitters using FirstLight zoom-in simulations", CCA-NY area galaxy seminar, Flatiron Institute  
 
-[14] 2025.08: "Physical properties and Inner structures of high-redshift galaxies using cosmological zoom-in simulations", invited seminar talk, Hokkaido University, Japan  
+[14*] 2025.08: "Physical properties and Inner structures of high-redshift galaxies using cosmological zoom-in simulations", invited seminar talk, Hokkaido University, Japan  
 
-[13] 2025.07: "Inner Structure, ISM, and Star Formation in z > 6 Galaxies: Insights from Cosmological Zoom-in Simulations and JWST/ALMA Observations", invited seminar talk, Kyoto University, Japan  
+[13*] 2025.07: "Inner Structure, ISM, and Star Formation in z > 6 Galaxies: Insights from Cosmological Zoom-in Simulations and JWST/ALMA Observations", invited seminar talk, Kyoto University, Japan  
 
 [12] 2025.04: "Merger-driven clump formation in high-redshift galaxies", talk, [One-day workshop for stellar cluster simulation](https://yurinanakazato.github.io/star_cluster_simulation/), the University of Tokyo  
 
-[11] 2025.02: "Tracing Early Galaxy Formation with FirstLight Zoom-in Simulations: Statistical Insights and Inner Structures of z > 6 Galaxies", Invited seminar talk, University of Tsukuba, Japan    
+[11*] 2025.02: "Tracing Early Galaxy Formation with FirstLight Zoom-in Simulations: Statistical Insights and Inner Structures of z > 6 Galaxies", Invited seminar talk, University of Tsukuba, Japan    
 
 [10] 2024.12: "Tracing Early Galaxy Formation with FirstLight: Statistical Insights and Inner Structures of high-z galaxies", talk, [One-day workshop on high-z cosmological simulations](https://yurinanakazato.github.io/high-z_simulation/), the University of Tokyo  
 
@@ -107,7 +116,7 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
 [7] 2024.07: "Galaxy formation and evolution in the early universe using numerical simulations", seminar talk, JSR corporation, Online  
 
-[6] 2024.04: "Physical properties and Inner structures of high-redshift galaxies (z > 6) using zoom-in simulations",  seminar talk, Scuola Normale Superiore, Italy   
+[6] 2024.04: "Physical properties and Inner structures of high-redshift galaxies (z > 6) using zoom-in simulations", seminar talk, Scuola Normale Superiore, Italy   
 
 [5] 2023.12: "Chemical and dynamical evolution of high-redshift [OIII] emitters in FirstLight simulation", seminar talk, Universidad Autónoma de Madrid, Madrid   
 
