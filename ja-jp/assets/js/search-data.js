@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-学会発表",
           title: "学会発表",
-          description: "",
+          description: "* indicates invited talks",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
