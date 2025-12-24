@@ -55,6 +55,8 @@ Resceu Summer School 2022, online
 Resceu Summer School 2021, online
 
 ## Domestic conferences  
+[15] 2026.03: "Clump-scale dust attenuation and re-emission in EoR galaxies from simulations", ASJ (The Astronomical Society of Japan) Spring Annual Meeting 2026, Kyoto Sangyo University, Kyoto  
+
 [14] 2025.09: "The Origin of [O III]/[C II] Ratios in High-Redshift Galaxies Probed by High-Resolution Radiative Transfer Simulations", ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2025, KAIKYO MESSE SHIMONOSEKI, Yamaguchi  
 
 [13*] 2025.08: "Line Diagnostics of High-Redshift Galaxies: Synergies Between JWST and ALMA", invited talk, the Fine Structure Line Workshop 2025, Hokkai-Gakuen University, Hokkaido  
