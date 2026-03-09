@@ -13,7 +13,7 @@ nav_order: 4
 
 [16*] 2026.03: "Synergies between JWST and ALMA: Unveiling Galaxy Dynamics and ISM Physics in the Early Universe", [Star Forming Galaxies in the Reionization Epoch: ALMA-Driven Studies with the Aid of JWST](https://sites.google.com/view/ishigaki-alma-2026/home), Okinawa, Japan  
 
-[15*] 2026.02: "The Evolution of Metals and Dust in Massive Galaxies during the Epoch of Reionization: Insights from Simulations and JWST-ALMA Synergies", From Dust Till Dawn, Leiden, Netherlands  
+[15] 2026.02: "Emission Line and Dust Attenuation Properties of EoR Galaxies from Zoom-in Simulations", From Dust Till Dawn, Leiden, Netherlands  
 
 [14] 2025.09: "Spatially Resolved Dust in High-Redshift Clumpy Galaxies from Zoom-in Cosmological Simulations", Gas/Dust Mini Workshop in Hiroshima, Hiroshima, Japan  
 
@@ -96,7 +96,11 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
-[16*] 2026.04: Invited seminar talk, University of Maryland, Maryland, The United States  
+[18]  2026.05: CCA-NY area galaxy seminar, Flatiron Institute  
+
+[17*] 2026.05: Invited seminar talk, Princeton University, The United States  
+
+[16*] 2026.04: Invited seminar talk, University of Maryland, The United States  
 
 [15] 2025.11: "Chemical & Dynamical Evolution of high-redshift [OIII] emitters using FirstLight zoom-in simulations", CCA-NY area galaxy seminar, Flatiron Institute  
 
@@ -116,15 +120,15 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
 [7] 2024.07: "Galaxy formation and evolution in the early universe using numerical simulations", seminar talk, JSR corporation, Online  
 
-[6] 2024.04: "Physical properties and Inner structures of high-redshift galaxies (z > 6) using zoom-in simulations", seminar talk, Scuola Normale Superiore, Italy   
+[6] 2024.04: "Physical properties and Inner structures of high-redshift galaxies (z > 6) using zoom-in simulations", seminar talk, Scuola Normale Superiore, Italy    
 
-[5] 2023.12: "Chemical and dynamical evolution of high-redshift [OIII] emitters in FirstLight simulation", seminar talk, Universidad Autónoma de Madrid, Madrid   
+[5] 2023.12: "Chemical and dynamical evolution of high-redshift [OIII] emitters in FirstLight simulation", seminar talk, Universidad Autónoma de Madrid, Spain  
 
-[4] 2023.12: "Chemical evolution and bursty star formation history of high-redshift galaxies from ALMA to JWST", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Madrid  
+[4] 2023.12: "Chemical evolution and bursty star formation history of high-redshift galaxies from ALMA to JWST", seminar talk, Centro de Astrobiología, (CAB, CSIC-INTA), Spain  
 
 [3] 2023.08: "Modeling of Optical emission lines and recent JWST observations",[ One-day workshop on galaxies in the era of JWST/ALMA](http://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/highz.html), The University of Tokyo  
 
 [2] 2023.03: "H2 cooling of gravitational collapse of SIGOs with high-resolution simulations",   
-Supersonic Project: Collaboration meeting, UCLA, US  
+Supersonic Project: Collaboration meeting, UCLA, The United States  
 
-[1] 2023.03: "Formation and evolution of star clusters and galaxies in the early Universe", UCLA
+[1] 2023.03: "Formation and evolution of star clusters and galaxies in the early Universe", UCLA, The United States
