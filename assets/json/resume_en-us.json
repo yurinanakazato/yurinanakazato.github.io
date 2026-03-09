@@ -42,7 +42,7 @@
       "endDate": "2025.9",
       "score": "10",
       "supervisor": "Supervisor: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/\">Prof. Naoki Yoshida</a>", 
-      "thesis": "Thesis: <a href=\"https://www.dropbox.com/scl/fi/r46d2kbhpe8eguj27pyel/PhD_thesis_Yurina_Nakazato.pdf?rlkey=qrgs09spqaieknzsbmcs0onlz&dl=0\">Formation and Evolution of High-Redshift Galaxies Using Cosmological Simulations and Multi-Wavelength Observations</a>"
+      "thesis": "Thesis: <a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/Theses/D_Nakazato.pdf\">Formation and Evolution of High-Redshift Galaxies Using Cosmological Simulations and Multi-Wavelength Observations</a>"
     },
     {
       "institution": "The University of Tokyo",
@@ -156,6 +156,11 @@
       "name": "<a href=\"https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/\">Prof. Naoki Yoshida</a>",
       "icon": "fa-solid fa-laptop",
       "reference": "Professor, Department of Physics, The University of Tokyo"
+    },
+    {
+      "name": "<a href=\"https://www.simonsfoundation.org/people/rachel-somerville/\">Prof. Rachel Somerville</a>",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Professor, Center for Computational Astrophysics, Flatiron Institute"
     },
     {
       "name": "<a href=\"https://snaoz.astro.ucla.edu/NaozResearch.html\">Prof. Smadar Naoz</a>",
