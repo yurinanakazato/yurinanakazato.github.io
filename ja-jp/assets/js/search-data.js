@@ -485,6 +485,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/collaboration_observation/";
+            },},{id: "projects-spatially-resolved-dust-attenuation-curves",
+          title: 'Spatially resolved dust attenuation curves',
+          description: "Using FirstLight simulations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dust_attenuation_curve/";
             },},{id: "projects-最遠方銀河での明るい紫外光の起源",
           title: '最遠方銀河での明るい紫外光の起源',
           description: "",

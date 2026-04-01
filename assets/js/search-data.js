@@ -485,6 +485,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/collaboration_observation/";
+            },},{id: "projects-spatially-resolved-dust-attenuation-curves",
+          title: 'Spatially resolved dust attenuation curves',
+          description: "Using FirstLight simulations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dust_attenuation_curve/";
             },},{id: "projects-origins-of-luminous-uv-emissions-from-the-ﬁrst-galaxies-at-z-15-10",
           title: 'Origins of luminous UV emissions from the ﬁrst galaxies at z = 15...',
           description: "",
