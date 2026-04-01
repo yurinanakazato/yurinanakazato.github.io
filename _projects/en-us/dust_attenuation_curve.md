@@ -29,7 +29,7 @@ In the fixed dust composition case, the dust-star geometry and dust column densi
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         <div style="width: 60%; margin: auto;">
-            {% include figure.liquid loading="eager" path="assets/img/IRX_delta_beta.png" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/IRX_delta_beta_all_MW_w_toy_model_w_REBELS.png" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
