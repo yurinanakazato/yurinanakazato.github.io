@@ -34,5 +34,5 @@ In the fixed dust composition case, the dust-star geometry and dust column densi
     </div>
 </div>
 <div class="caption text-center">
-    Figure 2: IRX–$$\Delta\beta$$ relation with analytical model curves. Contours show simulation results for the clumpy (cyan), diffuse (orange), and system-integrated (black) components at $$z = 6$-$9$$. REBELS-IFU system-integrated data are shown for comparison.
+    Figure 2: IRX–$\Delta\beta$ relation with analytical model curves. Contours show simulation results for the clumpy (cyan), diffuse (orange), and system-integrated (black) components at $z = 6$-$9$. REBELS-IFU system-integrated data are shown for comparison.
 </div>
