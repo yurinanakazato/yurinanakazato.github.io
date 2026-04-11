@@ -9,7 +9,7 @@ nav_order: 4
 ---
 
 ## International conferences  
-[17]  2026.03: "Formation of [O III]-Bright Clumpy Galaxies at z > 6 in Cosmological Zoom-in Simulations", [Tokyo JWST conference 2026, Towards the Full Bloom of First Star, Galaxy, and Black Hole Formation Exploration](http://cos.icrr.u-tokyo.ac.jp/conference/tokyojwst2026/)  
+[17]  2026.03: "Formation of [O III]-Bright Clumpy Galaxies at z > 6 in Cosmological Zoom-in Simulations", [Tokyo JWST conference 2026, Towards the Full Bloom of First Star, Galaxy, and Black Hole Formation Exploration](http://cos.icrr.u-tokyo.ac.jp/conference/tokyojwst2026/), Tokyo, Japan  
 
 [16*] 2026.03: "Synergies between JWST and ALMA: Unveiling Galaxy Dynamics and ISM Physics in the Early Universe", [Star Forming Galaxies in the Reionization Epoch: ALMA-Driven Studies with the Aid of JWST](https://sites.google.com/view/ishigaki-alma-2026/home), Okinawa, Japan  
 
@@ -100,7 +100,8 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 
 [17*] 2026.05: Invited seminar talk, Princeton University, The United States  
 
-[16*] 2026.04: Invited seminar talk, University of Maryland, The United States  
+[16*] 2026.04: "Inner Structure and ISM of Early Galaxies from Cosmic Dawn to the EoR: 
+Insights from FirstLight simulations and JWST & ALMA", invited seminar talk, University of Maryland, The United States  
 
 [15] 2025.11: "Chemical & Dynamical Evolution of high-redshift [OIII] emitters using FirstLight zoom-in simulations", CCA-NY area galaxy seminar, Flatiron Institute  
 
