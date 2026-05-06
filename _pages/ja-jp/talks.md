@@ -99,7 +99,8 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 ## Seminar  
 [18]  2026.05: CCA-NY area galaxy seminar, Flatiron Institute  
 
-[17*] 2026.05: Invited seminar talk, Princeton University, The United States  
+[17*] 2026.05: "Probing ISM properties in EoR galaxies: 
+Insights from Cosmological Zoom-in Simulations  and JWST/ALMA Observations", invited seminar talk, Princeton University, The United States  
 
 [16*] 2026.04: "Inner Structure and ISM of Early Galaxies from Cosmic Dawn to the EoR: 
 Insights from FirstLight simulations and JWST & ALMA", invited seminar talk, University of Maryland, The United States  
