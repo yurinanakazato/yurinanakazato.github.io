@@ -96,7 +96,11 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
-[18]  2026.05: CCA-NY area galaxy seminar, Flatiron Institute  
+[19]  2026.06: seminar talk, The University of Massachusetts, Amherst  
+
+[18]  2026.05: "Post-processing dust radiative transfer: 
+size-mass relations & spatially resolved dust attenuation curves 
+at high-redshift (z≧6) Universe", CCA-NY area galaxy seminar, Flatiron Institute  
 
 [17*] 2026.05: "Probing ISM properties in EoR galaxies: 
 Insights from Cosmological Zoom-in Simulations  and JWST/ALMA Observations", invited seminar talk, Princeton University, The United States  
