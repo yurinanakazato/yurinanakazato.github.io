@@ -96,7 +96,7 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
-[19]  2026.06: seminar talk, The University of Massachusetts, Amherst  
+[19]  2026.06: "Unveiling ISM Physics in High-redshift Galaxies: Bridging Cosmological Zoom-in Simulations with JWST/ALMA Observations", seminar talk, The University of Massachusetts, Amherst  
 
 [18]  2026.05: "Post-processing dust radiative transfer: 
 size-mass relations & spatially resolved dust attenuation curves 
