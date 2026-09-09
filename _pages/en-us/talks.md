@@ -96,6 +96,10 @@ ASJ (The Astronomical Society of Japan) Autumn Annual Meeting 2021, online
 [51th astronomical meeting for young researchers](https://astro-wakate.sakura.ne.jp/ss2021/), online
 
 ## Seminar  
+[21*]  2026.09: "ISM Physics in the First Billion Years:  Bridging Cosmological Zoom-in Simulations  with JWST/ALMA Observations", AMNH Astro Seminar, American Museum of Natural History, New York  
+
+[20*]  2026.08: "The ISM and Dust of High-redshift Galaxies: Predictions from Cosmological Zoom-in Simulations", FLASH talk, NOIRLab, Tucson  
+
 [19]  2026.06: "Unveiling ISM Physics in High-redshift Galaxies: Bridging Cosmological Zoom-in Simulations with JWST/ALMA Observations", seminar talk, The University of Massachusetts, Amherst  
 
 [18]  2026.05: "Post-processing dust radiative transfer: 
